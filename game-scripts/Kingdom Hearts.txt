@@ -1,0 +1,5744 @@
+Neoseeker
+Kingdom Hearts (PS2)
+Kingdom Hearts Game Script - OKong
+would you recommend this guide?    yes   no email updates | more guides | cheats | forums | view source
+Neoseeker : FAQs : Kingdom Hearts : Kingdom Hearts FAQs : Kingdom Hearts Game Script
+Kingdom Hearts Game Script
+by OKong   Updated on Jun 21, 2005
+KINGDOM HEARTS Game Script
+
+Written by Oliver Kong
+
+E-mail address: oliverkongsq@hotmail.com
+------------------------------------------------------------------------
+-------------------
+Table of Contents
+1. Updates
+2. Disclaimer
+3. Game Script
+4. Credits
+------------------------------------------------------------------------
+-------------------
+1. Updates
+
+1/10/03: Added the "Updates" section and made some minor corrections in 
+the game script.
+
+6/18/03: Added the game dialogues for Hundred Acre Wood event, changed 
+the Disclaimer a little and adjusted some dialogues a bit.
+
+7/23/03: Added an important notice for the disclaimer.
+
+10/6/03: Changed some of the narrator's dialogues to a better 
+description.
+
+10/7/03: Corrected a little more mistakes.
+
+1/26/05: Changed my e-mail address due to contribution issues.
+
+3/21/05: Corrected some typos.
+
+3/28/05: Added the "special thanks" to voice-overs in Credits.
+
+6/5/05: Widen the script for less printing paper consumption.
+
+6/18/05: Corrected some character dialogue roles and added some missing 
+dialogues during the Deep Jungle scene.
+------------------------------------------------------------------------
+-------------------
+2. Disclaimer
+
+This is my first script that I've done for a game that had Final Fantasy 
+characters join Disney characters for the first time. I truly hope you 
+find this script enjoyable. Just remember that I didn't translate the 
+script, I used my VCR to record my game play with the dialogues and then 
+I stop after the event dialogues ended. Then I play back the cassette 
+from the VCR and upon seeing the dialogues; I put the VCR on pause and 
+type those dialogues into my computer. And that is how I do my scripts. 
+Oh, one more thing. My grammar is not perfect and if you see the 
+narrator's dialogues, it is my style of telling the story and events 
+going on and they are the best that how I could describe what's going 
+on. Just remember that no one is perfect. That is my motto. Oh, one more 
+thing. If you are thinking of posting my game script for your website, 
+please ask me first before you do so.
+------------------------------------------------------------------------
+-------------------
+2. Game Script
+
+We begin this game by watching a movie of the introduction with Sora 
+waking up under the water.
+
+Voice of Sora: I've been having these weird thoughts lately, like is any 
+of this for real or not?
+
+The intro theme song Simple and Clean plays and Sora goes down sleeping. 
+The screen shows Sora seeing Riku and Riku wants him to grab his hand, 
+but a tidal wave goes up and goes under them. Sora goes down through the 
+water and then in the sky of dawn. The screen then shows Kairi waving at 
+Sora and wants him to come to her. Sora was going to approach, but he 
+saw himself going down, and then, Sora falls into the water. Sora falls 
+into the water and eventually lands in a circular area with a portrait 
+of Snow White and the Seven Dwarves. In that area...
+
+Mysterious Voice: So much to do, so little time... Take your time. Don't 
+be afraid. The door is still shut. Now, step forward. Can you do it?
+
+Sora steps forward. Then, trapezoid stones with a sword, a shield, and a 
+staff appeared.
+
+Mysterious Voice: If you give it form... It will give you strength. 
+Choose well.
+
+Sora chose the shield.
+
+Mysterious Voice: The power of the guardian. Kindness to aid friends. A 
+shield to repel all. Is this the power you seek?
+
+Sora: Yes.
+
+Mysterious Voice: Your path is set.
+
+The shield disappeared from Sora's arm.
+
+Mysterious Voice: Now, what will you give up in exchange?
+
+Sora chose the sword.
+
+Mysterious Voice: The power of the warrior. Invincible courage. A sword 
+of terrible destruction. You give up this power?
+
+Sora: Yes.
+
+Mysterious Voice: You've chosen the power of the guardian. You've given 
+up the power of the warrior. Is this the form you choose?
+
+Sora: Yes.
+
+The trapezoid stones disappeared. The floor shatters and Sora falls 
+down. Sora then lands on the circular floor with a portrait of 
+Cinderella. A shield appeared on Sora's arm.
+
+Mysterious Voice: You gained the power to fight.
+
+Sora tried out the attack with the shield.
+
+Mysterious Voice: All right! You've got it. Use this power to protect 
+yourself and others.
+
+Suddenly, Shadows appeared.
+
+Mysterious Voice: There will be times you have to fight. Keep your light 
+burning strong.
+
+Sora fights group of Shadows. Then, they disappeared. Then more 
+appeared.
+
+Mysterious Voice: Behind you!
+
+Sora fights and defeated all of the Shadows. Then, the dark void 
+appeared and Sora goes down there. Sora gets up in another circular 
+floor with multiple colors. Sora approaches the door.
+
+Sora: (wondering) I can't open it...
+
+Sora saw a treasure chest and opens it. Then a large crate appeared. 
+Sora pushes and smashes it. Then a barrel appeared and Sora smashed that 
+as well. The door then opens and lights are coming out of it as Sora 
+enters the door. In an island, Tidus, Wakka, and Selphie are waiting.
+
+Mysterious Voice: Hold on. The door won't open just yet. First, tell me 
+more about yourself.
+
+Sora talks to Tidus.
+
+Tidus: What are you afraid of?
+
+Sora: Getting old.
+
+Tidus: Gettin' old? Is that really so scary?
+
+Sora talks to Wakka.
+
+Wakka: What do you want outta life?
+
+Sora: To see rare sights.
+
+Wakka: To see rare sights, huh?
+
+Sora talks to Selphie.
+
+Selphie: What's most important to you?
+
+Sora: Being number one.
+
+Selphie: Is being number one such a big deal?
+
+Mysterious Voice: You're afraid of getting old. You want to see rare 
+sights. You want to be number one. Your adventure begins at dawn. As 
+long as the sun is shining, your journey should be a pleasant one.
+
+Sora: Sounds good.
+
+Mysterious Voice: The day you will open the door is both far off and 
+very near.
+
+Sora then appeared in a circular floor with a portrait of Aurora. Sora 
+approaches a light and group of Shadows appears. Sora manages to defeat 
+them all. After that, Sora approaches the save point and the light 
+revealed stairs to the next area. In the next area...
+
+Mysterious Voice: The closer you get to light, the greater your shadow 
+becomes.
+
+The shadow of Sora rises and turned into Darkside.
+
+Mysterious Voice: But don't be afraid. And don't forget...
+
+Sora almost fell off the floor when he tried to escape. Sora had no 
+choice but to fight Darkside. After the fight, a black circle appears 
+under Sora.
+
+Mysterious Voice: But don't be afraid. You hold the mightiest weapon of 
+all. 
+
+Sora is getting engulfed in the black circle.
+
+Mysterious Voice: So don't forget: You are the one who will open the 
+door.
+
+Sora then woke up in the beach in the island. After he woke up, he saw 
+Kairi in surprise.
+
+Sora: Whoa!
+
+Kairi giggles.
+
+Sora: Gimme a break, Kairi.
+
+Kairi: Sora, you lazy bum. I knew that I'd find you snoozing down here.
+
+Sora: No! This huge black THING swallowed me up! I couldn't breathe, I 
+couldn't-Ow! (head hurts)
+
+Kairi: Are you still dreaming?
+
+Sora: It wasn't a dream! Or was it? I don't know. What was that place? 
+So bizarre...
+
+Kairi: Yeah, sure.
+
+Sora: Say, Kairi, what was your hometown like? You know, where you grew 
+up. 
+
+Kairi: I've told you before, I don't remember.
+
+Sora: Nothing at all?
+
+Kairi: Nothing.
+
+Sora: You ever want to go back?
+
+Kairi: Well, I'm happy here.
+
+Sora: Really...
+
+Kairi: But you know... I wouldn't mind going to see it.
+
+Sora: I'd like to see it too. Along with any other worlds out there! I 
+want to see 'em all!
+
+Kairi: So what're we waiting for?
+
+Riku: Hey, aren't you guys forgetting about me?
+
+Riku appeared.
+
+Riku: So, I guess I'm the only one working on the raft.
+
+Riku tosses the log and Sora tried to catch it, but it landed on Sora's 
+arms when he fell down.
+
+Riku: And you're just as lazy as he is!
+
+Kairi: So you noticed. Okay, we'll finish it together. I'll race you!
+
+Sora: Huh?
+
+Riku: What, are you kidding?
+
+Kairi: Ready? Go!
+
+They race. We begin the journey in Destiny Islands. Sora talks to Kairi.
+
+Kairi: So, can you gather the rest of the supplies? Sora, are you 
+listening to me?
+
+Sora: Yeah, I heard you.
+
+Kairi: Okay, here's what you need to go find: Two Logs. One Cloth. One 
+Rope. Bring everything back here. If you need help, just ask. I'm 
+counting on you!
+
+At the same time, Sora talks to Wakka, Selphie and Tidus for some one on 
+one while finding the equipment that Kairi needs. After finding all of 
+them, Sora talks to Kairi.
+
+Kairi: Thanks, Sora! I found something today, too. Here, it's yours.
+
+Kairi gave Sora, a Hi-Potion. 
+
+Kairi: Tired? Want to call it a day?
+
+Sora: Yeah, let's go home.
+
+Kairi: Okay. It is getting late. We'll finish up tomorrow.
+
+Later in the sunset...
+
+Sora: So, Kairi's home is out there somewhere, right?
+
+Riku: Could be. We'll never know by staying here.
+
+Sora: But how far could a raft take us?
+
+Riku: Who knows? If we have to, we'll think of something else.
+
+Kairi: So, suppose you get to another world. What would you do there?
+
+Riku: Well, I haven't really thought about it. It's just... I've always 
+wondered why we're here on this island. If there are any other worlds 
+out there, why did we end up on this one? And suppose there are other 
+worlds... Then ours is just a little piece of something much greater. So 
+we could have just as easily ended up somewhere else, right?
+
+Sora: (laying down on a branch) I don't know.
+
+Riku: That's why we need to go out there and find out. Just sitting here 
+won't change a thing. It's the same old stuff. So let's go.
+
+Kairi: You've been thinking a lot lately, haven't you?
+
+Riku: Thanks to you. If you hadn't come here, I probably would've never 
+thought of any of this. Kairi, thanks.
+
+Kairi: You're welcome.
+
+Later, Sora, Riku, and Kairi walk back to the house. Then, Riku called 
+out for Sora.
+
+Riku: Sora.
+
+Riku tosses Sora a paopu fruit.
+
+Riku: You wanted one, didn't you?
+
+Sora: A paopu fruit...
+
+Riku: If two people share one, their destinies become intertwined. 
+They'll remain a part of each other's lives no matter what. C'mon, I 
+know you want to try it.
+
+Sora: What are you talking-
+
+Riku laughs and Sora throws away the paopu fruit and they ran back to 
+the house. Meanwhile in the King's castle with Disney characters, Donald 
+Duck goes in the large door, which reveals a small door, and went 
+through and into the throne room. In there...
+
+Donald: Good morning, Your Majesty. It's nice to see you this morn-What!
+
+There was nobody in the throne room. But then, Pluto came out of the 
+hiding spot and holds a letter with his mouth. Donald Duck read the 
+letter and he rushes to search for Goofy in craziness. Outside the 
+castle, Goofy is sleeping and Donald Duck approaches him.
+
+Donald: Wake up, Goofy, wake up! This is serious!!
+
+Goofy is still sleeping and Donald Duck cast a thunder spell on Goofy 
+and that woke him up.
+
+Goofy: Hey there, Donald. G'morning.
+
+Donald: We've got a problem, Goofy! But don't tell anyone...
+
+Goofy: (ignoring Donald Duck) Queen Minnie?
+
+Donald: Not even the queen.
+
+Goofy: (still ignoring Donald Duck) Daisy?
+
+Donald: No, it's top secret!
+
+Goofy: (saw Minnie Mouse and Daisy Duck) G'morning, ladies.
+
+Donald Duck: What?
+
+Minnie Mouse and Daisy Duck saw Goofy and Donald Duck talk about 
+something. Donald Duck laughs as if embarrassed. Later, back in Destiny 
+Islands, Sora talks to Riku and after Sora came up with the name of the 
+raft, Sora and Riku decided to race against each other.
+
+Kairi: You guys at it again? All right, I'll be the judge. The usual 
+rules apply: Take any route you want... First one to tag that tree and 
+make it back here wins.
+
+Sora: If I win, I'm captain! And if you win...
+
+Riku: I get to share the paopu with Kairi.
+
+Sora: Huh?
+
+Riku: Deal? The winner gets to share a paopu with Kairi.
+
+Sora: Wha... Wait a minute...
+
+Kairi: Okay. On my count:
+
+The race begins. After the race, Sora talks to Kairi.
+
+Kairi: Today we collect provisions for out trip! Let's see, Sora, you're 
+looking for... One Seagull Egg. Three Mushrooms. Two Coconuts. Three 
+Fish. And fill this up with Drinking Water. But not from the ocean!
+
+Kairi gave Sora an Empty Bottle.
+
+Kairi: Bring everything back here. If you need help, just ask.
+
+While getting the provisions for Kairi, Sora enters the Secret Place and 
+upon collecting the Mushroom, he saw a carving of Kairi and Sora and 
+thinks back to the past when they were young and were carving something 
+on the stone. Sora then carves something that shows Sora giving a star 
+to Kairi. Then, a man in hood appeared behind Sora.
+
+Sora: Wh-Who's there?
+
+Hooded Man: I've come to see the door to this world.
+
+Sora: Huh?
+
+Hooded Man: This world has been connected.
+
+Sora: Wh-What are you talking about?
+
+Hooded Man: Tied to the darkness...soon to be completely eclipsed.
+
+Sora: Well, whoever you are, stop freaking me out like this. Huh? Wh-
+Where did you come from?
+
+Hooded Man: You do not yet know what lies beyond the door.
+
+Sora: So, you're from another world!
+
+Hooded Man: There is so very much to learn. You understand so little.
+
+Sora: Oh, yeah? Well, you'll see. I'm gonna get out and learn what's out 
+there!
+
+Hooded Man: A meaningless effort. One who knows nothing can understand 
+nothing.
+
+Sora saw the door and then the hooded man disappeared. Sora's got all 
+the provisions and talks to Kairi.
+
+Kairi: This? I'm making a necklace of thalassa shells. In the old days, 
+sailors always wore thalassa shells. They were supposed to ensure a safe 
+voyage.
+
+Sora talks to Kairi again.
+
+Kairi: Thanks, Sora! I found something today, too. Here, it's yours.
+
+Kairi gave Sora, a Hi-Potion.
+
+Kairi: Tired? Want to call it a day?
+
+Sora: Yeah, let's go home.
+
+Kairi: Okay, tomorrow's the big day. We should rest up!
+
+Later in the sunset, Sora and Kairi are sitting at the dock.
+
+Kairi: You know, Riku has changed.
+
+Sora: What do you mean?
+
+Kairi: Well...
+
+Sora: You okay?
+
+Kairi: Sora, let's take the raft and go-just the two of us!
+
+Sora: Huh?
+
+Kairi: Just kidding.
+
+Sora: What's gotten into you? You're the one that's changed, Kairi.
+
+Kairi: Maybe... You know, I was a little afraid at first, but now I'm 
+ready. No matter where I go or what I see, I know I can always come back 
+here. Right?
+
+Sora: Yeah, of course!
+
+Kairi: That's good. Sora, don't ever change.
+
+Sora: Huh?
+
+Kairi: I just can't wait. Once we set sail, it'll be great.
+
+Meanwhile in the King's castle with Disney characters, the following 
+message is from the king's letter as follows:
+
+Donald,
+
+Sorry to rush off without sayin' goodbye, but there's big trouble 
+brewin'. Not sure why, but the stars have been blinkin' out, one by one. 
+And that means disaster can't be far behind.  I hate to leave you all 
+but I've gotta go check into it. There's someone with a "key"-the key to 
+our survival. So I need you and Goofy to find him, and stick with him. 
+Got it? We need that key or we're doomed! So go to Traverse Town and 
+find Leon. He'll point you in the right direction.
+
+P.S.
+
+Would ya apologize to Minnie for me? Thanks, pal.
+
+Daisy: Oh, dear! What could this mean?
+
+Minnie: It means we'll just have to trust the king.
+
+Goofy: Gawrsh, I sure hope he's all right.
+
+Donald: Your Highness. Don't worry. We'll find the king and this "key."
+
+Minnie: Thank you, both of you.
+
+Donald: Daisy, can you take care of-
+
+Daisy: Of course. You be careful, now, both of you.
+
+Minnie: Oh, and to chronicle your travels, he will accompany you.
+
+Donald Duck suddenly saw a little character jumping. It is Jiminy 
+Cricket.
+
+Jiminy: Over here! (stops jumping) Cricket's the name. Jiminy Cricket, 
+at your service.
+
+Minnie: We hope for your safe return. Please help the king.
+
+Donald Duck agrees to do it and Goofy salutes next to Minnie Mouse and 
+Daisy Duck.
+
+Donald: (snatches Goofy's arm and taking him away) You're coming, too!
+
+Later, Donald Duck, Goofy, and Jiminy Cricket are walking down the 
+stairs.
+
+Goofy: Gawrsh, Jiminy, your world disappeared, too?
+
+Jiminy: It was terrible. We were scattered. And as far as I can see, I'm 
+the only one who made it to this castle.
+
+Donald: Goofy?
+
+Goofy: Oh, right... I gotcha. While we're in the other worlds, we can't 
+let on where we're from. We've gotta protect the world border.
+
+Donald: "Order."
+
+Goofy: Right. World order.
+
+While proceeding to the next room...
+
+Goofy: (to Donald) I guess we'll need new duds when we get there.
+
+In the Gummi Ship room, Donald speaks through a pipe.
+
+Donald: Hello up there? Donald Duck to launch crew! Anytime you're 
+ready.
+
+Chip understands and Dale pulls the lever to make the hand crane carry 
+Goofy and Donald Duck into the Gummi Ship's cockpit. They are about to 
+take off.
+
+Donald: Blast off!!
+
+The Gummi Ship falls below and out of the world and Donald Duck and 
+Goofy takes off in the Gummi Ship. Meanwhile in Sora's house, Sora lays 
+in bed and looks at the ship he built on the ceiling.
+
+Kairi: (Sora is wondering about her) I just can't wait. Once we set 
+sail, it'll be great.
+
+Suddenly, Sora saw a storm from Destiny Islands.
+
+Sora: A storm? Oh, no, the raft! 
+
+Sora immediately proceeds to Destiny Islands.
+
+Sora's Mom: Sora, dinner's ready. Come on down. Sora?
+
+Sora rides his boat to the island and saw a black sphere at the dark 
+sky.
+
+Sora: What's that? (saw his friend's boat) Riku's boat. And Kairi's!
+
+Suddenly, group of Shadows appeared. Sora makes his way to the area 
+where Riku is standing.
+
+Sora: Where's Kairi? I thought she was with you!
+
+Riku: The door has opened...
+
+Sora: What?
+
+Riku: The door has opened, Sora! Now we can go to the outside world!
+
+Sora: What are you talking about? We've gotta find Kairi!
+
+Riku: Kairi's coming with us! Once we step through, we might not be able 
+to come back. We may never see our parents again. There's no turning 
+back. But this may be our only chance. We can't let fear stop us! I'm 
+not afraid of the darkness!
+
+Sora: Riku!
+
+The black shadowy circles engulf Sora and Riku when Riku is showing his 
+hand so that he could get Sora. Suddenly, Sora got out of it and a light 
+appeared and Sora got a Keyblade.
+
+Mysterious Voice: Keyblade... Keyblade...
+
+Sora fights his way to the white door where the Secret Area and enters 
+the door. Inside, he saw Kairi.
+
+Sora: Kairi!
+
+Kairi: (in bad shape) Sora...
+
+Suddenly, the door opened and black wind came out. Kairi got blown 
+closer to Sora and when Sora tried to hold Kairi, Kairi disappeared 
+through Sora. Sora was blown away. In the area where the island is in 
+midair, Sora fights Darkside. After defeating Darkside, everything got 
+sucked into the black sphere. Meanwhile in Traverse Town...
+
+Goofy: Look, a star's goin' out!
+
+Goofy and Donald Duck saw a star up in the sky.
+
+Donald: Come on. Let's hurry.
+
+Goofy, Donald Duck, and Pluto moves on.
+
+Donald: Where's that key...
+
+Goofy: Hey, ya know, maybe we ought to go find Leon.
+
+Goofy saw Pluto going in the other direction.
+
+Goofy: Uh, Donald. Ya know, I betcha that... 
+
+Donald: Aw, what do you know, you big palooka?
+
+Goofy: What do I know? Hmm... Come on, Pluto.
+
+Pluto spots Sora unconscious and licks his face which woke him up.
+
+Sora: What a dream...
+
+Pluto tries to jump on Sora.
+
+Sora: This isn't a dream!
+
+Sora stands up.
+
+Sora: Where am I? Oh, boy. (to Pluto) Do you know where we are?
+
+Pluto runs.
+
+Sora: Hey...
+
+Sora walks out of the alley and in the town of Traverse Town...
+
+Sora: This is totally weird... I'm, in another world!
+
+Sora explores the town and then went to the Accessory Shop.
+
+Cid: Hey there, how can I... Aw, it's only a kid.
+
+Sora: I'm not a kid! And the name's Sora!
+
+Cid: Okay, okay, simmer down. So why the long face, Sora? You lost or 
+somethin'?
+
+Sora: No! Well, maybe. Where are we?
+
+Cid: Huh?
+
+Cid told Sora everything.
+
+Sora: Traverse Town... So, gramps, is this really another world?
+
+Cid: Don't call me gramps! The name's Cid! Anyway... Not sure what 
+you're talkin' about, but this sure ain't your island.
+
+Sora: Hmm... Guess I'd better start looking for Riku and Kairi.
+
+Cid: Well, good luck with whatever it is you're doing. If you ever run 
+into trouble, you come to me. I'll look out for you.
+
+After Sora fully prepares himself by buying some equipment, Sora heads 
+to the Second District. In there, he saw a man who falls down on the 
+ground and dies. His heart came out and it formed into a Heartless. 
+Then, the Shadows appeared.
+
+Sora: (wandering) It's those creatures from the island!
+
+Sora fights the Heartless along the way while searching for the three 
+districts. After that, Sora goes back to the Accessory Shop and talks to 
+Cid.
+
+Cid: Still haven't found 'em? Keep your chin up. Take another look 
+around town.
+
+Sora goes outside. And then...
+
+Leon: They'll come at you out of nowhere.
+
+Sora: Who are you?
+
+Leon: And they'll keep on coming at you, as long as you continue to 
+wield the Keyblade. But why? Why would it choose a kid like you?
+
+Sora: Hey, what's that supposed to mean?
+
+Leon: Never mind. Now, let me see that Keyblade.
+
+Sora: What? There's no way you're getting this!
+
+Leon: All right, then have it your way.
+
+Sora fights Leon. After the fight, Leon kneels to the ground and is 
+still holding his Gunblade.
+
+Sora: (exhausted) Now...you're...gonna...you're gonna...
+
+Sora collapsed and is unconscious.
+
+Yuffie: Aw, you're slipping, Leon.
+
+Leon: I went easy on him. Looks like things are worse than we thought. A 
+lot worse.
+
+Meanwhile, Donald Duck and Goofy are still searching for the king.
+
+Goofy: Gawrsh, there's nobody here. Sure is spooky!
+
+Donald: Aw, phooey. I'm not scared.
+
+A young woman taps her finger at Donald Duck's shoulder. Donald Duck 
+freaked out and grabbed on to Goofy. They turn around and they see 
+Aerith.
+
+Aerith: Excuse me. Did the king send you?
+
+Later...
+
+Voice of Kairi: Come on, lazy bum. Wake up.
+
+Sora wakes up in the hotel room.
+
+Kairi: You okay?
+
+Sora: I guess...
+
+Kairi: Those creatures that attacked you are after the Keyblade. But 
+it's your heart they really want, because you wield the Keyblade.
+
+Sora: I'm so glad you're okay, Kairi.
+
+Kairi: Kairi? Who are you talking about? I'm the great ninja Yuffie.
+
+A white flash appears and Sora saw Yuffie.
+
+Yuffie: I think you might've overdone it, Squall.
+
+Leon: That's Leon.
+
+Yuffie: The Keyblade... Yeah, we had to get it away from you to shake 
+off those creatures. It turns out that's how they were tracking you.
+
+Leon: It was the only way to conceal your heart from them. But it won't 
+work for long. Still hard to believe that you of all people are the 
+chosen one.
+
+Leon picks up the Keyblade and it disappears in his hand and then 
+reappeared in Sora's possession.
+
+Leon: Well, I suppose beggars can't be choosers.
+
+Sora: Why don't you start making sense! What's going on here?
+
+The screen switches to the room with Aerith, Donald Duck, and Goofy.
+
+Aerith: Okay, you know there are many other worlds out there besides 
+your castle and this town, right?
+
+Donald: Yeah.
+
+Goofy: But they're supposed to be a secret.
+
+Aerith: They've been secret because they've never been connected. Until 
+now. When the Heartless came, everything changed.
+
+The screen switches to the room with Sora, Leon, and Yuffie.
+
+Sora: The Heartless?
+
+Yuffie: The ones who attacked you, you remember?
+
+Leon: Those without hearts. The darkness in people's hearts-that's what 
+attracts them. And there is darkness within every heart.
+
+Yuffie: (to Sora) Hey, have you heard of someone named Ansem?
+
+The screen switches to the room with Aerith, Donald Duck, and Goofy.
+
+Goofy: Ansem?
+
+Aerith: He was studying the Heartless. He recorded all of his findings 
+in a very detailed report.
+
+Goofy: Gawrsh, uh, can we see it?
+
+Aerith: Its pages are scattered everywhere.
+
+Donald: Scattered?
+
+Aerith: Too many worlds.
+
+Goofy: Oh, then maybe the king went to find 'em.
+
+Aerith: Yes, those were my thoughts exactly.
+
+Goofy: We've gotta find him quick!
+
+Donald: Wait! First, we need that "key"!
+
+Aerith: That's right. The Keyblade.
+
+The screen switches to the room with Sora, Leon, and Yuffie.
+
+Sora: So...this is the key?
+
+Yuffie: Exactly!
+
+Leon: The Heartless have great fear of the Keyblade. That's why they'll 
+keep coming after you no matter what.
+
+Sora: Well, I didn't ask for this.
+
+Yuffie: (to Sora) The Keyblade chooses its master. And it chose you.
+
+Leon: So tough luck.
+
+Sora: How did all this happen? I remember being in my room...
+
+Sora is shocked.
+
+Sora: Wait a minute! What happened to my home? My island? Riku! Kairi!
+
+Leon: You know what? I really don't know.
+
+Sora talks to Leon.
+
+Leon: Sooner or later, the Heartless will find you. You'd best prepare 
+yourself.
+
+Sora: Prepare yourself?
+
+Leon: To fight for your life. Are you ready?
+
+Sora: I'm ready!
+
+Leon: (to Yuffie) Yuffie, let's go join Aerith. She should be there by 
+now with the other visitors.
+
+Yuffie: Leon!
+
+Suddenly, a Heartless Soldier appeared.
+
+Leon: Yuffie, go!
+
+Yuffie runs and upon opening the door, she accidentally flattened Donald 
+Duck between the door and the wall.
+
+Aerith: Yuffie?
+
+Aerith follows Yuffie. Leon readies his Gunblade and Sora readies his 
+Keyblade.
+
+Leon: Sora, let's go!
+
+The Heartless Soldier jumped out of the window and Leon followed it out 
+of the window. Sora goes down to the first floor and outside. The camera 
+then shows the door closing revealing the flattened Donald Duck. Outside 
+of the alley...
+
+Leon: Don't bother with the small fry. Find the leader! Let's go!
+
+Sora fights his way to the Third District. In there, Goofy saw Sora 
+running and suddenly, Goofy is surrounded by the Heartless.
+
+Goofy: Gawrsh, are these the Heartless guys?
+
+Donald: Let's go get 'em, Goofy!
+
+The Heartless attacked Donald Duck and Goofy and they fall off the 
+balcony and into the first floor of the Third District, landing on Sora.
+
+Donald & Goofy: The key!
+
+Suddenly, the Heartless Soldiers appeared and Sora's group fights and 
+defeats them all. Then, the Guard Armor appeared and Sora's group fights 
+the Guard Armor. After Sora's group defeats the Guard Armor, the heart 
+came out of the Guard Armor and disappears. Sora's group receives a 
+Brave Warrior accessory after the fight.
+
+Sora: So, you were looking for me?
+
+Donald & Goofy: Uh huh.
+
+Leon: They, too, have been seeking the wielder of the Keyblade.
+
+Goofy: (to Sora) Hey, why don't you come with us? We can go to other 
+worlds on our vessel.
+
+Sora: (looks unhappy) I wonder if I could find Riku and Kairi...
+
+Donald: Of course.
+
+Goofy: Are you sure?
+
+Donald: Who knows? But we need him to come with us to help us find the 
+king.
+
+Leon: Sora, go with them. Especially if you want to find your friends.
+
+Sora: (still looking unhappy) Yeah, I guess.
+
+Donald: But you can't come along looking like that. Understand? No 
+frowning. No sad face. Okay?
+
+Goofy: Yeah, ya gotta look funny, like us!
+
+Donald Duck pushes Goofy's face away.
+
+Donald: This boat runs on happy faces.
+
+Sora: Happy?
+
+Sora makes a big smile. And then, Donald Duck and Goofy laughs.
+
+Goofy: That's one funny face!
+
+Sora: Okay, why not? I'll go with you guys.
+
+Donald: Donald Duck.
+
+Goofy: Name's Goofy.
+
+Sora: I'm Sora.
+
+Sora places his hand on top of Donald Duck and Goofy's hands. 
+
+Goofy: All for one, one for all.
+
+Meanwhile in a dark area with the Disney villains...
+
+Hades: That little squirt took down that Heartless! Who'd have thought 
+it?
+
+Jafar: Such is the power of the Keyblade. The child's strength is not 
+his own.
+
+Ursula: Why don't we turn him into a Heartless? That'll settle things 
+quick enough.
+
+Captain Hook: And the brat's friends are the king's lackeys. Swoggle me 
+eyes, they're all bilge rats by the look of them.
+
+Oogie Boogie: You're no prize yourself.
+
+Oogie Boogie laughs.
+
+Captain Hook: Shut up!
+
+Maleficent: Enough. The Keyblade has chosen him. Will it be he who 
+conquers the darkness? Or will the darkness swallow him? Either way, he 
+could be quite useful...
+
+Later at Traverse Town...
+
+Leon: Make sure you're prepared for the journey ahead of you. We don't 
+know how far the Heartless have spread.
+
+Yuffie: Check out the shops here. They've got some pretty neat stuff!
+
+Aerith: This is from all of us.
+
+Aerith gave Sora 100 munny.
+
+Aerith: Spend it as you see fit. And this is from Leon.
+
+Aerith gave Sora an Elixir.
+
+Yuffie: Good luck!
+
+Aerith: I hope you find your friends.
+
+Leon: Look out for each other. Keep your spirits up.
+
+Later, Sora is talking with Donald Duck and Goofy.
+
+Donald: The gummi ship is outside that gate.
+
+Sora: The what?
+
+Donald: That's our ship.
+
+Goofy: Wait 'til you see it!
+
+Donald: Hold on. Sora, this is for you.
+
+Sora attained the power of fire.
+
+Donald: Now you can use magic, too. Goofy, give him that other thing.
+
+Goofy: What?
+
+Donald: You know!
+
+Goofy: Oh, yeah.
+
+Sora learned Dodge Roll.
+
+Goofy: Abilities allow you to do all sorts of things. Guess we should 
+look for 'em along the way, huh?
+
+Sora: Okay, is that it? Let's get going!
+
+Donald: Not 'til we're ready!
+
+Jiminy: (to himself) Well, I see big adventures coming their way! Looks 
+like it's up to me to keep track of it all in my journal!
+
+After Sora's group gets fully prepared, they get on the Gummi Ship. 
+Donald Duck and Goofy explained the instructions on how to control the 
+Gummi Ship to Sora. They take off to Wonderland. In there, Sora's group 
+floats down with Goofy sleeping. Upon landing, Goofy fell down to the 
+ground, which woke him up.
+
+White Rabbit: Oh, my fur and whiskers! I'm late, I'm late, I'm late! Oh, 
+dear, oh dear, oh dear! I'm here, I should be there. I'm late, I'm late, 
+I'm late! The queen, she'll have my head for sure!
+
+Sora's group follows the White Rabbit into the Bizarre Room. In there, 
+Sora's group saw the Doorknob.
+
+Sora: How did he get so small?
+
+Doorknob: No, you're simply too big.
+
+Sora's group was shocked.
+
+Donald: It talks!
+
+The Doorknob is trying to sleep.
+
+Doorknob: Must you be so loud? You woke me up.
+
+Goofy: Good morning.
+
+Doorknob: Good night! I need a bit more sleep.
+
+Sora: Wait, what do we have to do to grow small?
+
+Doorknob: Why don't you try the bottle...over there?
+
+The table rises up to reveal a drinkable bottle. Sora's group drinks it 
+and they grew small so that they can enter the Queen's Castle. In there, 
+Alice is standing next to a podium on trial. The White Rabbit gets to 
+his position and blows the trumpet.
+
+White Rabbit: Court is now in session!
+
+Alice: I'm on trial? But why?
+
+White Rabbit: Her Majesty, the Queen of Hearts, presiding!
+
+Queen of Hearts: The girl is the culprit. There's no doubt about it. And 
+the reason is...because I say so, that's why!
+
+Alice: That is so unfair!
+
+Queen of Hearts: Well, have you anything to say in your defense?
+
+Alice: Of course! I've done absolutely nothing wrong! You may be queen, 
+but I'm afraid that doesn't give you the right to be so...so mean!
+
+Queen of Hearts: Silence! You dare defy me?
+
+Sora's group watches the trial and Sora thinks of something.
+
+Sora: (to Donald and Goofy) Hey, guys, we should help her out.
+
+Donald: Yeah, but the-
+
+Goofy: We're outsiders, so wouldn't that be muddling?
+
+Donald: "Meddling"!
+
+Goofy: Oh, yeah. And that's against the rules.
+
+Queen of Hearts: The court finds the defendant...guilty as charged! For 
+the crimes of assault and attempted theft of my heart... (to the Cards) 
+Off with her head!
+
+Alice: No! No! Oh, please!
+
+Sora: Hold it right there!
+
+Sora's group approaches the Queen of Hearts.
+
+Queen of Hearts: Who are you? How dare you interfere with my court?
+
+Sora: Excuse me. But we know who the real culprit is!
+
+Goofy: Uh-huh. It's the Heartle-
+
+Goofy covered his mouth before he could finish his sentence.
+
+Sora: Anyway, she's not the one you're looking for.
+
+Queen of Hearts: That's nonsense. Have you any proof?
+
+One of the Cards locks Alice in a cage.
+
+Queen of Hearts: Bring me evidence of Alice's innocence! Fail and it's 
+off with all of your heads! Gather as much or little evidence as you 
+please. Report back here once you're ready.
+
+Sora's group proceeds to the Lotus Forest. In there, the Cheshire Cat 
+appeared.
+
+Donald: Who are you?
+
+Cheshire Cat: Who, indeed? Poor Alice. Soon to lose her head, and she's 
+not guilty of a thing!
+
+Sora: Hey, if you know who the culprit is, tell us!
+
+Cheshire Cat: The Cheshire Cat has all the answers-but doesn't always 
+tell. The answer, the culprit, the cat all lie in darkness.
+
+Sora: Wait!
+
+The Cheshire Cat disappeared.
+
+Cheshire Cat: They've already left the forest. I won't tell which exit. 
+There are four pieces of evidence in all. Three are a cinch to find. The 
+fourth is tricky. Big reward if you find them all.
+
+Donald: Should we trust him?
+
+Cheshire Cat: To trust, or not to trust? I trust you'll decide!
+
+Sora's group finds all the evidence. Then, the Cheshire Cat appeared.
+
+Cheshire Cat: Well, look what you've found. Nice going.
+
+Sora: Now we can save Alice.
+
+Cheshire Cat: Don't be so sure! She may be innocent, but what about you?
+
+Sora: What do you mean?
+
+Cheshire Cat: I won't tell. But I'll give you something.
+
+The Cheshire Cat gave Sora the spell of ice. Then, Sora's group heads 
+back to the Queen's Castle. Sora's group talks to one of the Cards.
+
+Red Card: Are you ready to present evidence before the queen?
+
+Sora: Yes.
+
+Red Card: Very well. Counsel, step up to the podium.
+
+The evidence begins.
+
+Queen of Hearts: Now, show me what you have found.
+
+Sora showed the Queen of Hearts the items.
+
+Queen of Hearts: Well, that's certainly a lot of evidence, but I'm still 
+not impressed. Cards! Bring forth my evidence!
+
+The Cards reveals the Queen of Hearts' evidence.
+
+Queen of Hearts: Hmm, checking all five would only be a waste of time. 
+All right, then. Choose the one you wish to present. I'll decide who's 
+guilty based on that evidence.
+
+Sora: What? After all the trouble of collecting it?
+
+Queen of Hearts: You dare object? Then you will lose your head! Now, 
+choose! One box!
+
+Sora chose a box.
+
+Queen of Hearts: Are you certain? No second chances!
+
+Sora: I'm sure.
+
+Queen of Hearts: Now we shall see who the real culprit is.
+
+Sora opened the box and it revealed a Heartless.
+
+Queen of Hearts: What in the world was that?
+
+Sora: There's your evidence. Alice is innocent.
+
+Queen of Hearts: Rrrrrrrgh... Silence! I'm the law here! Article 29: 
+Anyone who defies the queen is guilty!
+
+Donald: That's crazy!
+
+Queen of Hearts: Seize them at once!
+
+The cage with Alice rises up and the Cards go after Sora's group.
+
+Queen of Hearts: Cards! If they touch the tower, you lose your heads!
+
+Sora's group fights the Cards. Sora's group manages to destroy the Crank 
+Tower to lower the cage to the ground. After that, Alice is not in the 
+cage.
+
+Donald: She must've gotten kidnapped while we were fighting.
+
+Queen of Hearts: You fools! Find the one who's behind this! I don't care 
+how!
+
+Sora's group proceeds to Lotus Forest. In there, the Cheshire Cat 
+appeared.
+
+Donald: Have you seen Alice?
+
+Cheshire Cat: Alice, no. Shadow, yes!
+
+Goofy: Where did they go?
+
+Cheshire Cat: This way? That way? Does it matter? Left, right, up, down! 
+All mixed up thanks to the shadows! Step deeper into the forest to the 
+deserted garden. You might find shadows in the upside-down room!
+
+Sora's group proceeds to the Bizarre Room. There, the Cheshire Cat 
+appeared.
+
+Cheshire Cat: They're hiding somewhere. And the momeraths outgrabe. Want 
+to find the shadows? Try turning on the light.
+
+Sora's group touched one of the lights and it turned on with the flower 
+growing. The Cheshire Cat appeared.
+
+Cheshire Cat: It's too dim. Make it brighter.
+
+Donald: What next?
+
+Cheshire Cat: One more lamp that you need to light.
+
+Sora's group turned on the second light. The Cheshire Cat appeared.
+
+Cheshire Cat: All the lights are on. You'll see the shadows soon. 
+They'll arise in this room, but somewhere else. The shadows might go 
+after that doorknob, too.
+
+Sora's group proceeds to the normal Bizarre Room and the Cheshire Cat 
+appeared.
+
+Cheshire Cat: You'll have a better view from higher up.
+
+Sora's group jumps up to the table and talks to the Cheshire Cat.
+
+Cheshire Cat: The shadows should be here soon. Are you prepared for the 
+worst? If not, too bad!
+
+The Trickmaster appeared. Sora's group begins the fight against 
+Trickmaster. After Sora's group defeats Trickmaster, the Trickmaster 
+falls to the ground and the heart came out of it and the Trickmaster 
+disappeared. Sora's group received Ifrit's Horn accessory after the 
+battle. After that...
+
+Doorknob: What a racket. How's a doorknob to get any sleep?
+
+Suddenly, a keyhole appeared in the Doorknob's mouth. Sora's Keyblade 
+then emits a beam that locked the keyhole sealing the world from the 
+Heartless.
+
+Donald: What was that?
+
+Sora: You hear that? Sounded like something closed.
+
+A Gummi piece drops on the ground.
+
+Goofy: This gummi ain't like the others. No, sir.
+
+Donald: Okay, I'll hold on to it.
+
+Sora's group received Navi-G Piece. The Cheshire Cat appeared.
+
+Cheshire Cat: Splendid. You're quite the hero. If you're looking for 
+Alice, she's not here. She's gone! Off with the shadows, into darkness.
+
+The Cheshire Cat disappeared.
+
+Sora: No...
+
+Donald: Let's go back to our gummi ship. We might find her in another 
+world.
+
+Goofy: We've gotta go to a save point to return to our ship.
+
+Sora's group takes the Gummi Ship to the Olympus Coliseum. In the Lobby, 
+Sora talks to Philoctetes.
+
+Sora: Um...
+
+Phil: Good timing. Give me a hand, will ya? Move that pedestal over 
+there for me. I gotta spruce this place up for the games.
+
+Sora's group tries to push the pedestal.
+
+Sora: It weighs a ton!
+
+Sora talks to Philoctetes.
+
+Sora: It's way too heavy!
+
+Phil: What? Too heavy? Since when have you been such a little- (saw 
+Sora's group) Oh. Wrong guy. What're you doing here? This here's the 
+world-famous Coliseum-heroes only! (moving closer to Donald) And I got 
+my hands full preparing for the games. So run along, pip-squeaks. Look, 
+it's like this. Heroes are coming from all over to fight ferocious 
+monsters right here in the Coliseum.
+
+Donald: You got heroes standing right in front of you.
+
+Goofy: Yup. He's a real hero chosen by the Keyblade!
+
+Donald: And we're heroes, too.
+
+Phil: Hero? That runt?
+
+Philoctetes laughs.
+
+Sora: What's so funny? I've fought a bunch of monsters!
+
+Phil: Hey, if you can't even move this...you can't call yourself...a 
+hero!
+
+Philoctetes has a hard time moving the pedestal himself.
+
+Phil: Okay, so it takes more than brawn. Well, well, let's see what you 
+can do.
+
+Sora talks to Philoctetes.
+
+Phil: This trial is tough. You got what it takes? You ready?
+
+Sora: I'm ready!
+
+Phil: Okay, kid. Let's see what you've got.
+
+Sora alone starts the barrel smashing time trial. After Sora 
+successfully completed the trial before time runs out...
+
+Phil: You know, you ain't bad, kid.
+
+Sora: Looks like I'm headed for the games.
+
+Phil: Afraid not.
+
+Sora: Why not?
+
+Phil: Two words: You guys ain't heroes.
+
+Sora: Come on!
+
+Phil: Wanna become a real hero? Start by mastering this spell.
+
+Sora attained the power of thunder. Sora's group goes outside of the 
+Lobby. Out there...
+
+Hades: Rather a stubborn old goat, wouldn't you say?
+
+Donald: Who are you?
+
+Hades: Whoa, hold on there, fuzz boy. Wait, let me guess. You want to 
+enter the games, right? (puts his hand on Sora's shoulder) Well, then, 
+hey, get a load of this.
+
+An Entry Pass magically appeared on Hades hand.
+
+Sora: A pass?
+
+Hades: It's all yours. Good luck, kid. I'm pulling for you, little 
+shorty.
+
+Sora's group receives the Entry Pass. In the Lobby, Sora talks to 
+Philoctetes and shows him the Entry Pass.
+
+Phil: Hey, how'd you get this?
+
+Sora: Can we enter the games now?
+
+Phil: Well... I guess so. We start with the preliminaries! Ready for the 
+preliminaries?
+
+Sora: Yeah, let's go!
+
+Phil: Some real weirdos signed up for the games. Better watch yourself.
+
+Sora's group enters the battle arena. They fight the first round enemies 
+and were triumphant.
+
+Phil: You're no heroes yet, but you ain't doing bad. Lucky you came to 
+me for coaching.
+
+Then, Cloud walked by and stares at Sora's group while he walks away.
+
+Phil: Something tells me he'll be a tough one to beat. Who knows, maybe 
+you'll end up facing him.
+
+Sora's group fights the next sets of enemies and was victorious in round 
+two and three.
+
+Phil: Say, you're better than I thought, kid! Wish he was here to see 
+this.
+
+Sora: Who?
+
+Phil: Hercules. He's a hero if ever there was one. Too bad he's off 
+visiting his father.
+
+Sora's group fights the next sets of enemies and was victorious in round 
+four and five. While, Sora's group were acting victoriously, Hades talks 
+to Cloud.
+
+Hades: That little punk is your next opponent, okay? Now, don't blow it. 
+Just take him out.
+
+Cloud: The great god of the Underworld is afraid of a kid? Sorry, but my 
+contract says-
+
+Hades: I know! You think I don't know? I wrote the contract! I know it 
+says you're only required to kill Hercules in this tournament. But 
+you've gotta fight that kid to get to him. Come on. Hey, it's like that 
+old goat says: Rule 11: It's all just a game, so let loose and have fun 
+with it! I mean, a casualty or two along the way is no big deal, right?
+
+Cloud left.
+
+Hades: Geez. Stiffer than the stiffs back home. Still, suckers like him 
+are hard to come by...
+
+Sora's group fights the next round and was victorious. Then, they fight 
+Cloud. After Sora's group was triumphant against Cloud, Cerberus 
+appeared and Cloud's giant sword was dropped to the ground.
+
+Hades: Oh, right, there was one other rule I forgot: Accidents happen.
+
+Hades left the scene. Hercules then appeared to help stop Cerberus.
+
+Phil: Herc!
+
+Hercules: Phil, get them out of here!
+
+Sora's group and Philoctetes head to the Lobby.
+
+Phil: Whew, that was close! That was Cerberus, the guardian of the 
+Underworld. Herc should be able to handle him. But then again, maybe 
+not... This doesn't look good.
+
+Before Sora's group could enter the battle arena...
+
+Phil: Kid, you're not entering the arena, are ya? This ain't just some 
+match. This is for real!
+
+Sora: I'm not afraid. You can decide if I'm hero material or not.
+
+Phil: Careful, kid!
+
+In the battle arena, Hercules with the unconscious Cloud being over his 
+shoulder is in a bad situation because of the Cerberus. Sora's group 
+appeared and then Hercules with Cloud he is holding leaves.
+
+Phil: Kid, I got two words of advice for you: Attack!
+
+Sora's group fights Cerberus. After Sora's group defeats Cerberus, they 
+received Inferno Band. Later at the Lobby...
+
+Phil: Thus, I do hereby dub thee junior heroes, and confer upon thee 
+full rights and privileges to participate in the games. Further-
+
+Donald: Hey! What do you mean "junior heroes"?
+
+Phil: You rookies still don't understand what it takes to be a true 
+hero.
+
+Goofy: So, what does it take?
+
+Hercules: Well, that's just something you'll have to find out for 
+yourselves. Just the way that I did.
+
+Sora: No problem. We'll start by proving ourselves in the games.
+
+Phil: There ain't gonna be any games for a while. Gotta clean up the 
+mess from that last battle first.
+
+Sora: Okay, we'll be back.
+
+Sora's group left the Lobby.
+
+Phil: I still can't believe that squirt actually beat Cerberus.
+
+Hercules: Just between us, I'd already worn Cerberus down by the time 
+the little guy jumped in.
+
+Phil: My lips are sealed.
+
+Sora's group got the Hero License. Outside, Sora's group talks to Cloud 
+who is sitting near the exit.
+
+Sora: Hey, are you all right?
+
+Cloud: Yeah.
+
+Sora: So why did you go along with him, anyway?
+
+Cloud: I'm looking for someone. Hades promised to help. I tried to 
+exploit the power of darkness, but it backfired. (stands up) I fell into 
+darkness, and couldn't find the light.
+
+Sora: You'll find it. I'm searching, too.
+
+Cloud: For your light? Don't lose sight of it.
+
+Cloud gave Sora something.
+
+Sora: How about a rematch sometime? Fair and square, no dark powers 
+involved.
+
+Cloud: I think I'll pass.
+
+Sora learned Sonic Blade ability. Sora's group left. Then Hades appeared 
+after that. 
+
+Hades: (looking at the Hercules' image in his hand) He's strong, he's 
+kind. He's always there for you, and he's handsome to boot. He's 
+perfect. Perfect. (angry) Perfectly infuriating! He makes me crazy. 
+(calms down) Wait a minute. What are you talking about? All the pieces 
+are in place. Relax. Here's what you do. Let Hercules train the kid. In 
+the next games, I'll take care of them both.
+
+Hades noticed Maleficent appeared.
+
+Hades: Who invited you to the party? Stay out of this. This is my show.
+
+Maleficent: As you wish. Fight to your heart's content.
+
+Maleficent left the scene. Later, Sora's group rides the Gummi Ship to 
+Deep Jungle. Before they disembark...
+
+Goofy: Hey, Donald, maybe King Mickey's down there.
+
+Donald: In a backwater place like that? No way! Let's move on.
+
+Sora: Hold on, Riku and Kairi might be down there. Let's just check it 
+out.
+
+Donald: Forget it! We're on an important mission!
+
+Sora: Just land!
+
+Donald: No!
+
+Sora: Come on!
+
+Donald: Aw, phooey!
+
+Sora: We're landing!
+
+Donald: Don't touch that! Nooo!
+
+The Gummi Ship crash-landed in Deep Jungle and Sora fell into a Tree 
+House. Sora is separated from Donald Duck and Goofy.
+
+Sora: Oww...my head... Donald? Goofy?
+
+Suddenly, Sabor came to attack Sora. Sora fights Sabor and after the 
+fight, Tarzan came and kept Sabor away from Sora. Sabor got away.
+
+Tarzan: Sabor, danger.
+
+Sora: Um...thank you.
+
+Tarzan: Thank you.
+
+Sora: Huh? Uh, what is this place?
+
+Tarzan: This place, this place.
+
+Sora: Okaaay... Where did the others go? Look, I got separated from my 
+friends. Have you seen them?
+
+Tarzan: Hmm?
+
+Sora: Friends...
+
+Tarzan: Friends!
+
+Sora: Right, my friends! There's two of 'em. The loud one is Dona-
+
+Tarzan: Huh?
+
+Sora: You know what? Never mind. I'm looking for my friends, Riku and 
+Kairi.
+
+Tarzan: Look for Riku, friends?
+
+Sora: Right!
+
+Tarzan: Kairi, friends?
+
+Sora suddenly saw an image of Kairi.
+
+Sora: Uhh...right...
+
+The Kairi image walked away.
+
+Tarzan: Friends here.
+
+Sora: Really!?
+
+Tarzan: (making weird noises) *&&X%. *&&X%. Friends here.
+
+Sora: Not sure I understand, but show me! Take me to Riku and Kairi!
+
+Tarzan: Tarzan. Tarzan go.
+
+Sora: And I'm...Sora. Tarzan go, Sora go go!
+
+Meanwhile with Goofy and Donald Duck...
+
+Goofy: Gawrsh, where are we? I sure hope Sora's okay.
+
+Donald: Aw, who needs him? We can find the king without him. (saw a 
+gorilla) Huh?
+
+Donald Duck and the gorilla freaked out when they saw each other. Then, 
+the gorilla left a Gummi piece behind. Then a hunter, Clayton appeared. 
+Later, Sora and Tarzan proceeds to the Camp and then in the Tent. In 
+there...
+
+Tarzan: Jane!
+
+Jane: Tarzan! Oh, and who is this?
+
+Sora: Uh, hi there. I'm-
+
+Jane: Oh, you speak English! So, then, obviously, you're not related to 
+Tarzan... Are you here to study the gorillas?
+
+Clayton: Highly doubtful.
+
+Clayton appeared with Donald Duck and Goofy.
+
+Goofy: Sora!
+
+Sora: Goofy! Donald!
+
+Donald Duck and Sora hold each other's hand in a friendly way. Then 
+Goofy stands while Donald Duck and Sora crosses their arms looking the 
+other way.
+
+Clayton: A circus of clowns. Not much use for hunting gorillas.
+
+Jane: Mr. Clayton, we're studying them, not hunting them. This is 
+research.
+
+Clayton left.
+
+Jane: Well, the more the merrier. Do make yourselves at home.
+
+Sora: Well, anyway...
+
+Sora & Donald: I'm staying.
+
+Sora: Huh?
+
+Goofy: Sora, look what we found. Look at this.
+
+Goofy shows an item.
+
+Sora: What's that?
+
+Goofy: A gummi block. It's the same stuff used to build our ship.
+
+Sora: So that means...
+
+Donald: The king could be here. So, we've gotta work together to look 
+for him. For now.
+
+Sora: Fine. I'll let you tag along. For now.
+
+Sora's group got the Protect-G. Sora's group goes back to the Tent and 
+talks to Jane.
+
+Jane: Apparently, Tarzan was raised in the jungle by the gorillas. 
+Communicating with him still isn't easy, but he's learning.
+
+Sora: So he was speaking in "gorilla" back there... 
+
+Jane: Ah, that's right. You're looking for your friends?
+
+Sora: He said Riku and Kairi are here. And one word I couldn't 
+understand...
+
+Jane: Why don't we try this? We'll show Tarzan some slides and see if 
+any of them match that word. Oh, what happened to the slides?
+
+Sora's group later found some slides and goes back to the Tent and talks 
+to Jane again, showing her the slides. Sora looks at the first photo of 
+a castle.
+
+Sora: ......
+
+Jane: What's wrong, Sora?
+
+Sora: What? Um... Nothing. (wondering) This place... it just looks so 
+familiar. But how? I've never been off my island.
+
+Sora looks at five more photos and after that...
+
+Jane: Well, Tarzan?
+
+Sora: Where are my friends, Riku and Kairi?
+
+Tarzan shakes his head as if saying he doesn't know.
+
+Sora: Hey, I thought--
+
+Clayton: That leaves just one place.
+
+Clayton enters the Tent.
+
+Clayton: Young man, we've been in this jungle for some time now. But we 
+have yet to encounter these friends of yours. I'd wager they're with the 
+gorillas. But Tarzan refuses to take us to them.
+
+Jane: Really, Mr. Clayton. Tarzan wouldn't hide-
+
+Clayton: Then take us there! Take us to the gorillas. Go-ril-las.
+
+Tarzan looks at Sora and nods his head.
+
+Jane: Tarzan...are you sure?
+
+Tarzan: Tarzan go see Kerchak.
+
+Jane: Kerchak?
+
+Clayton: He must be the leader. Perfect. I'll go along as an escort. 
+After all, the jungle is a dangerous place.
+
+Clayton shows a mischievous smile. After that, Sora's group heads out of 
+the Tent. Along the way, Sora's group fights Sabor for the second time. 
+After the fight, Sabor got away. Sora's group arrived in the Vine Area. 
+There, Tarzan talks to one of the gorilla named Kerchak.
+
+Tarzan: Kerchak, please listen to me. I know the nesting grounds are 
+secret, but I trust them. You see, I want to help them 
+because...because...well, they need us.
+
+Kerchak is not doing anything.
+
+Goofy: (to Donald) Did you get that?
+
+Donald: No.
+
+Tarzan: Kerchak.
+
+Kerchak looks upwards.
+
+Tarzan: Kerchak...
+
+Kerchak and Kala walked away. Tarzan looked down.
+
+Goofy: (wondering) He seemed sorta distracted by something.
+
+Donald: (wondering) Was he looking toward the tree house?
+
+Sora's group proceeds to the Tree House. In there, Terk is playing with 
+a globe and then Clayton attempts to hunt Terk down with his hunting 
+rifle, but before he could take an accurate aim, Donald Duck ran towards 
+Clayton, scared him by screaming like crazy and the shot narrowly missed 
+Terk.
+
+Donald: (to Clayton) What's the big idea!
+
+Tarzan: Wait, Kerchak. Please!
+
+Kerchak and Terk left.
+
+Clayton: You don't understand. I was only trying to... Ah. A snake 
+slithered by, you see. I saved that poor gorilla's life.
+
+Tarzan doesn't believe him. Sora's group proceeds to the Cliff. There, 
+they fight Sabor for the third time. After the fight, Sabor got away. 
+Sora's group proceeds to the Camp and then in the Tent. Inside...
+
+Jane: (to Clayton) How could you do such a thing!
+
+Clayton: Now, Miss Porter, as I told you, I was not aiming at the 
+gorilla.
+
+Jane: You are not to go near the gorillas again!
+
+Clayton: All because of one mishap? Come, now...
+
+Everyone is not happy with Clayton's behavior. Clayton feels embarrassed 
+and walks away in frustrations.
+
+Clayton: What am I doing with these imbeciles? Blasted gorillas! I'll 
+hunt down every last one of them! I'll track them down somehow. I'll 
+stake my life on it.
+
+Before Clayton could smoke his pipe, he heard a noise, and in the Tent, 
+Sora's group heard a gunshot. Sora's group goes outside and then...
+
+Sora: Heartless!
+
+Sora's group fights the Heartless who is trying to attack the gorilla. 
+Sora's group manages to defeat the Heartless. After finding four more 
+gorillas to rescue from the Heartless, Sora's group goes back to the 
+Tent. In there, Sora talks to Jane.
+
+Jane: I do hope Mr. Clayton is safe...
+
+Sora's group goes outside and then, a gunshot is heard from the Bamboo 
+Thicket. In there, Sora's group saw Clayton's pipe. But then, Sabor came 
+to attack. Sora's group fights Sabor. After Sora's group defeats Sabor, 
+they received the White Fang. Then later, Terk ran into the Tent and 
+grabbed on to Jane and are surrounded by the Heartless. Later, Sora's 
+group goes back to the Tent and inside, Jane is not here.
+
+Sora: Hey, where's Jane?
+
+Goofy: What's wrong, Tarzan?
+
+Tarzan: Something coming. Jane, danger. Jane near... Near tree house.
+
+Donald: Sounds like trouble. Let's go.
+
+Sora's group proceeds to the Climbing Trees. In there...
+
+Jane: Tarzan!
+
+Jane and Terk are trapped in an area. Sora's group destroys the big 
+black fruit to free Jane and Terk. After that...
+
+Jane: Clayton came to the tent, and... That's the last thing I remember.
+
+Sora: Clayton?
+
+Tarzan: Gorillas trapped. Terk ran.
+
+Jane: We must help the gorillas.
+
+Sora's group proceeds to the Cliff. In there, the Heartless and Clayton 
+surround the gorillas. Before Clayton could open fire...
+
+Sora: No!
+
+Clayton is looking at Sora's group oddly.
+
+Sora: Clayton?
+
+Tarzan: Not Clayton! *&&X%! Not Clayton!
+
+Sora's group fights Clayton and the Heartless. After the Heartless got 
+defeated, Clayton floats and some invisible enemy appeared. It is 
+Stealth Sneak. Sora's group fights Clayton and Stealth Sneak. After 
+Sora's group defeats Stealth and Clayton, Stealth Sneak lands on Clayton 
+and both are defeated as the Stealth Sneak's heart came out. Sora learns 
+Cure. Then the gorillas appeared and Kerchak threw Sora, Donald Duck, 
+and Goofy up to the next area. Tarzan jumped up to that area himself.
+
+Tarzan: Tarzan, home.
+
+Sora's group enters the Waterfall Cavern and in the area with a blue 
+light. Jane and Terk also enters.
+
+Tarzan: *&&X%.
+
+Sora: This is your home? But that means...
+
+Goofy: Huh?
+
+Jane: The waterfalls... They're echoing all the way here.
+
+Tarzan: *&&X%. Friends there. See friends.
+
+Jane: Oh, now I've got it. *&&X% means heart. Friends in our hearts...
+
+Tarzan: Heart...
+
+Sora: Oh, so that's what it meant.
+
+Tarzan: Friends, same heart. Clayton, lose heart. No heart, no see 
+friends.
+
+Sora: (to Donald) Sorry about what I said.
+
+Donald: I'm sorry too.
+
+Goofy: (placing his hands on Donald and Sora's shoulder) Yeah, All for 
+one, huh?
+
+A keyhole suddenly appeared from the blue light. Sora uses his Keyblade 
+to emit a beam at the keyhole to seal Deep Jungle from the Heartless. An 
+item dropped after that.
+
+Donald: A gummi!
+
+Goofy: But it's sure not the king's.
+
+Terk wants to be friendly with Donald.
+
+Jane: I think someone has a new admirer.
+
+Donald: No, no, no, no! Daisy would kill me!
+
+Sora's group laughed. They also received a Navi-G Piece. Meanwhile in 
+the dark area with the Disney villains...
+
+Jafar: What drew the Heartless to that world?
+
+Maleficent: The hunter lured them there. It was his lust for power that 
+was the bait. But it seems the bait was too tasty for his own good.
+
+Oogie Boogie: (laughs) Yeah, he got chomped instead!
+
+Jafar: A weak-hearted fool like him stood no chance against the 
+Heartless. But the boy is a problem. He found one of the Keyholes.
+
+Maleficent: Fear not. It will take him ages to find the rest. 
+
+Maleficent reveals Sora's group's image in the table.
+
+Maleficent: Besides, he remains blissfully unaware of our other plan.
+
+Oogie Boogie: Yes, the princesses...
+
+Maleficent: They are falling into our hands, one by one.
+
+An image of Alice appeared.
+
+Maleficent: Speaking of which...
+
+Later, in the Tent at Camp...
+
+Sora: Well, guess we better get going.
+
+Jane: Where is your ship, anyway?
+
+Donald: Well, uh... Not too far.
+
+Tarzan: Sora, Tarzan, friends.
+
+Tarzan gave Sora, a Jungle King key chain. Sora's group also learned Red 
+Trinity. Then, Sora's group proceeds to the Gummi Ship.
+
+Sora: The gummi block that came out of that glowing hole... It's not 
+like the others. Wonder what it's used for.
+
+Donald: I dunno.
+
+Goofy: Maybe Leon'll know.
+
+Donald: Hmm... He might. Back to Traverse Town, then?
+
+Sora: I wanna be pilot!
+
+Donald: Hey, stop it!
+
+Sora: Oh, come on! I'm the Keyblade master.
+
+Donald: I don't care who you are! No!
+
+Goofy: Here we go again...
+
+Sora's group pilots the Gummi Ship back to Traverse Town. Sora's group 
+enters the Secret Waterway and talks to Leon who is with Aerith.
+
+Leon: So, you found the Keyhole.
+
+Sora: Yeah. The Keyblade locked it automatically.
+
+Aerith: Good.
+
+Leon: Every world among the stars has a Keyhole. And each one leads to 
+the heart of that world. There must be one in this town as well.
+
+Sora: What do you mean?
+
+Aerith: It was in Ansem's report.
+
+Leon: The Heartless enter through the Keyhole and do something to the 
+world's core.
+
+Sora: What happens to the world?
+
+Aerith: In the end, it disappears.
+
+Sora, Donald, & Goofy: What!
+
+Leon: That's why your key is so important.
+
+Aerith: Please lock the Keyholes. You're the only one who can.
+
+Sora: I don't know...
+
+Leon: Seeing other worlds would probably serve you well.
+
+Donald: Yeah!
+
+Goofy: We gotta find your friends! And King Mickey!
+
+Sora: I guess you're right... Okay!
+
+Sora talks to Leon again.
+
+Sora: Hey, Leon. This gummi block's different from the others. Do you 
+know what it's for?
+
+Leon: (wondering) .........
+
+Aerith: Ask Cid. He should know.
+
+Leon: Wait, Sora. Take this with you.
+
+Sora's group received Earthshine.
+
+Leon: This stone holds some mysterious power. I've been carrying it for 
+luck. I want you to hold onto it.
+
+Sora: How do you use it?
+
+Leon: (wondering) .........
+
+Sora's group visits the Accessory Shop and talks to Cid.
+
+Cid: What've you got there? Hey! Well, if it ain't a gummi block.
+
+Donald: Yup.
+
+Goofy: What's this one for?
+
+Cid: You're kiddin' me! You're flyin' a gummi ship and you don't know 
+nothin' about navigation gummis? Bunch of pinheads. Interspace ain't no 
+playground.
+
+Sora: There's a lot we don't know. So what! We have to use the gummi 
+ship to go to other worlds. We don't have a choice.
+
+Cid: Whoa, easy. I didn't know. No hard feelings, all right? Well, I 
+guess could lend y'all a hand, then.
+
+Sora: Thanks.
+
+Cid: Basically, with navigation gummis, you can go to new places. You 
+want one on your ship, right?
+
+Donald Duck and Goofy nodded.
+
+Cid: I'll install it for you. But I got this thing I gotta go deliver 
+first.
+
+Sora: What do you need to deliver?
+
+Cid: Just this book. It's real old. When the guy brought it in, it was 
+practically falling apart. Too beat up to restore it to the way it was. 
+But overall, I did a decent job puttin' it back together. Anyway, you 
+mind deliverin' it for me? It's the old house past the Third District. 
+Look for a big fire sign.
+
+Sora received the Old Book. Then, Sora's group felt a shaking and then 
+heard a bell sound.
+
+Sora: Wh-What was that?
+
+Cid: Hmm? The bell at the gizmo shop is ringing. Go check it out if you 
+want, but deliver that book for me first. When you're done, stop by the 
+house in the Third District. I'll be there.
+
+Sora's group proceeds to the Empty House. In there...
+
+Kairi: There's something about this musty place...
+
+An image of Kairi appeared.
+
+Kairi: It reminds me of the secret place back home, where we used to 
+scribble on the walls. Remember?
+
+Sora: (confused) Kairi?
+
+Goofy: Sora?
+
+Sora pulled himself together and Kairi is not there. Later...
+
+Merlin: Well, well... You've arrived sooner than I expected.
+
+Sora: Wha... You knew we were coming?
+
+Merlin: Of course.
+
+Sora: Are you...a Heartless?
+
+Donald: He doesn't look like one.
+
+Merlin: Oh, my. No. My name is Merlin. As you can see, I am a sorcerer. 
+I spend much of my time traveling. It's good to be home. Your king has 
+requested my help.
+
+Goofy: King Mickey?
+
+Merlin: Yes, indeed. Donald, Goofy. And who might you be, young man?
+
+Sora: I'm Sora.
+
+Merlin: Ah. So, you have found the key.
+
+Donald: What did the king ask you to do?
+
+Merlin: Just a moment...
+
+Merlin steps up on the center circle and opens his bag.
+
+Merlin: Presto!
+
+Merlin's stuff comes out of the bag and with a bright flash, the Empty 
+House is now called the Magician's Study.
+
+Merlin: There, now. Ahem. Your king asked me to train you in the art of 
+magic. We can start anytime you like. Let me know when you're ready to 
+begin the training. Oh, and one more thing.
+
+Sora's group saw a small carriage and it transformed into the Fairy 
+Godmother.
+
+Fairy Godmother: Hello. I'm the Fairy Godmother. Your king asked me to 
+help, too. I will assist throughout your journey.
+
+Merlin: I do not know how much I can be of help, but do stop by anytime.
+
+Sora talks to Merlin again and gave the Old Book to him.
+
+Merlin: Oh, that book... So, Cid asked you to bring this. Thank you. You 
+wish to know what kind of book it is? I don't even know, myself. In 
+fact, it's not mine. Somehow it found its way into my bag one day. It 
+was such a curious book, I asked Cid to repair it for me. Well, I guess 
+I'll put it here somewhere, for now. This book holds a great secret. The 
+missing pages will unlock it. I'll leave the book over there. Do look at 
+it whenever you like. My best regards to Cid for repairing it for me. 
+Oh, and about that stone of yours... You should ask the Fairy Godmother 
+about that.
+
+Sora talks to the Fairy Godmother.
+
+Sora: Do you know what this is?
+
+Fairy Godmother: Oh, the poor thing! He has turned into a summon gem.
+
+Sora: A summon gem?
+
+Fairy Godmother: This little creature lived in a world that was consumed 
+by darkness. When a world vanishes, so do its inhabitants. But this one 
+had such a strong heart, he became a gem instead of vanishing with his 
+world.
+
+Sora: Can he regain himself?
+
+Fairy Godmother: Yes, but only his spirit. Now, watch! Bibbity Bobbity 
+boo!
+
+The Fairy Godmother cast a spell on the summon gem. Sora learned the 
+summon spell Simba.
+
+Fairy Godmother: Whenever you call, he will help you. If you find any 
+more of these, bring them to me. Don't worry, when their worlds are 
+restored they will return there. Sora, please help save them.
+
+Sora: Don't worry, I will.
+
+Before Sora could leave...
+
+Merlin: You'd best go see Cid before going anywhere else.
+
+Sora's group proceeds to the Third District. In there, the Heartless 
+appeared to attack, but someone came in and defeated the Heartless with 
+his sword.
+
+Riku: There you are. What's going on?
+
+Sora: Riku!
+
+Sora tried to make Riku's mouth wide open.
+
+Riku: Hey, hey, cut it out.
+
+Sora: I'm not dreaming this time, right?
+
+Riku: I hope not. Took forever to find you.
+
+Sora: Riku! Wait a second, where's Kairi?
+
+Riku: Isn't she with you? Well, don't worry. I'm sure she made it off 
+the island, too. We're finally free. Hey, she might even be looking for 
+us now.
+
+Suddenly, a Shadow appeared behind Riku.
+
+Riku: We'll all be together again soon. Don't worry. Just leave 
+everything to me. I know this-
+
+Sora defeated the Shadow with his Keyblade.
+
+Sora: Leave it to who?
+
+Riku: Sora, what did you-
+
+Sora: I've been looking for you and Kairi, too, with their help.
+
+Riku: Who are they?
+
+Donald: Ahem. My name is-
+
+Sora: We visited so many places and worlds, looking for you.
+
+Riku: Really? Well, what do you know? I never would have guessed.
+
+Goofy: Oh, and guess what? Sora's the Keyblade master. Who would've 
+thought it?
+
+Sora: What's that mean!
+
+Riku: (holding Sora's Keyblade) So, this is called a Keyblade?
+
+Sora: Huh? Hey, give it back.
+
+Riku backs up.
+
+Riku: Catch!
+
+Sora caught the Keyblade.
+
+Sora: Okay, so, you're coming with us, right? We've got this awesome 
+rocket. Wait 'til you see it!
+
+Donald: No, he can't come!
+
+Sora: What?
+
+Donald: Forget it!
+
+Sora: Oh, come on! He's my friend!
+
+Donald: I don't care!
+
+Goofy: He's gone.
+
+Sora: Riku? Nice going. Oh, well. At least he's okay. And who knows? 
+Maybe we'll run into Kairi soon, too.
+
+Sora's group proceeds to the Small House.
+
+Cid: You guys ever hear of Maleficent? I hear she's in town.
+
+Sora: Who is she?
+
+Cid: A witch, man, she's a witch!
+
+Leon: She's the reason this town is full of Heartless. Don't take her 
+lightly.
+
+Aerith: She's been using the Heartless for years.
+
+Leon: We lost our world, thanks to her.
+
+Cid: One day, a swarm of Heartless took over our world!
+
+Leon: That was nine years ago.
+
+Cid: I got out of that mess and came here with these guys.
+
+Donald: That's awful!
+
+Leon: Our ruler was a wise man named Ansem. He dedicated his like to 
+studying the Heartless.
+
+Cid: His report should tell us how to get rid of the Heartless.
+
+Sora: Where's this report?
+
+Leon: We don't know. It got scattered when our world was destroyed.
+
+Cid: I'm sure Maleficent's got most of the pages.
+
+Meanwhile, outside of the Small House, Maleficent is standing with Riku.
+
+Maleficent: You see? It's just as I told you. While you toiled away 
+trying to find your dear friend, he quite simply replaced you with some 
+new companions. Evidently, now he values them for more than he does you. 
+You're better off without that wretched boy. Now, think no more of him, 
+and come with me. I'll help you find what you're searching for...
+
+The screen switches to the inside of the Small House.
+
+Cid: So, you delivered that book? That navigation gummi's installed and 
+ready to go. You find another one, you bring it to me. I threw in a warp 
+gummi for the heck of it.
+
+Cid gave Sora a Warp-G.
+
+Cid: Now you can jump to worlds you've been to before. Well, better get 
+back to my real job. What's my real job? You'll see. See me at the First 
+District.
+
+Later...
+
+Aerith: I've been thinking about the bell in the Second District.
+
+Sora: That one that rang a big ago?
+
+Yuffie: The one above the gizmo shop. There's a legend about it, you 
+know.
+
+Aerith: But it's all boarded up. Nobody can get in there.
+
+Cid: Heck, go check it out. Ring it three times to see if anything 
+happens.
+
+Sora's group proceeds to the Second District and they destroyed the 
+boards that blocked the way to the bell. Sora's group rang the bell 
+three times. Then a keyhole appeared near the courtyard. Near the 
+courtyard, Sora's group encounters Guard Armor. After the fight against 
+Guard Armor, the Guard Armor transformed into Opposite Armor. Sora's 
+group fights Opposite Armor. After defeating Opposite Armor, the heart 
+came out of it and the Opposite Armor disappeared. Sora attained the 
+power of wind. Then, Sora locked the keyhole with the beam from his 
+Keyblade. Sora's group also received Navi-G Piece. Sora then shops for 
+Gummi equipment for their Gummi Ship. Then after that, Sora's group went 
+inside the Accessory Shop. Inside, they saw a wooden boy.
+
+Jiminy: Well, well, as I live and breathe! If it isn't Pinocchio!
+
+Pinocchio: Oh. Hi, Jiminy.
+
+Jiminy: What in the world are you doing down here?
+
+Pinocchio: Um... Playing hide-and-seek.
+
+Jiminy: I just don't believe it. And here I was, up all night, just 
+worried sick about you. Why of all the-Pinocchio!
+
+Pinocchio's nose grew longer.
+
+Jiminy: Pinocchio! Are you telling me the truth?
+
+Pinocchio: Yes!
+
+Jiminy: Then tell me, what is this?
+
+Pinocchio: It was a present.
+
+Jiminy: No fibbing, now! You know you're not supposed to tell lies. A 
+lie only grows and grows, 'til you get caught! Plain as the nose on your 
+face!
+
+Pinocchio: But if you want something, why wait? Why not just take it?
+
+Jiminy: Oh, my! Who told you that? You need some advice from your 
+conscience!
+
+Pinocchio: That's right! You're my conscience, Jiminy! I'll never tell 
+lies as long as you're around.
+
+Pinocchio's nose return to normal.
+
+Jiminy: You need to be good so you can become a real boy. You promised 
+Geppetto you would be, right?
+
+Pinocchio: Oh! Do you know where Father is?
+
+Jiminy: He's not with you?
+
+Pinocchio: Jiminy, let's go find Father!
+
+Jiminy: Now, hold on! There are all sorts of dangers and temptations out 
+there! I'll go find Geppetto, so you just wait here. These fellows here 
+will be helping me.
+
+Sora: We will?
+
+Jiminy: Well, shall we go, Sora?
+
+Sora: You could've asked us first...
+
+Sora's group pilots the Gummi Ship to Agrabah. In there, Maleficent is 
+talking with Jafar.
+
+Maleficent: And the Keyhole?
+
+Jafar: The Heartless are searching for it now. I'm certain we'll find it 
+soon enough. So that just leaves...
+
+Iago flies by and lands on Jafar's shoulder.
+
+Iago: Jafar! I've looked everywhere for Jasmine. She's disappeared like 
+magic.
+
+Jafar: The girl is more trouble than she's worth.
+
+Maleficent: You said you had things under control.
+
+Jafar: Agrabah is full of holes for rats to hide in. But why worry about 
+Princess Jasmine? With her or without her, surely this world will be 
+ours when we find the Keyhole.
+
+Maleficent: We need all seven princesses of heart to open the final 
+door. Any fewer is useless.
+
+Jafar: Well, if the princess is that important, we'll find her. (Jafar's 
+Heartless appeared and talks to them) Find Jasmine and bring her to me 
+at once.
+
+The Heartless left to search for Jasmine.
+
+Maleficent: Don't steep yourself in darkness too long. The Heartless 
+consume the careless.
+
+Jafar laughs.
+
+Jafar: Your concern is touching, but hardly necessary.
+
+The camera shows Jasmine overhearing what Jafar and Maleficent were 
+talking about while she was hiding from them. The screen switches to 
+Sora's group where they find Jasmine hiding.
+
+Jasmine: Who's there? Hello?
+
+Jasmine got out of her hiding spot.
+
+Jasmine: I'm Jasmine. My father is the sultan of Agrabah.
+
+Goofy: Uh... So that makes you a princess.
+
+Jasmine: But he has been deposed by Jafar, who now controls the city.
+
+Goofy: Jafar?
+
+Jasmine: You haven't heard of him? He's the royal vizier. He's gained 
+evil powers and seized Agrabah. He's desperately looking for somethin-
+something he calls the "Keyhole." Jafar caught me trying to escape, but 
+he helped me.
+
+Sora: Who helped you?
+
+Jasmine: We were hiding nearby, but he left a while ago to take care of 
+something... Oh, I hope Aladdin is all right.
+
+Jafar: Aladdin? Where might I find this street rat?
+
+Jafar appeared.
+
+Jafar: Jasmine, allow me to find you more suitable company, my dear 
+princess. These little rats won't do, you see.
+
+Sora: Jasmine, run!
+
+Jasmine runs and Sora's group readies their weapons against Jafar.
+
+Jafar: Ah, the boy who holds the key.
+
+Jafar left the scene and Sora's group defeated the Heartless and then 
+went into Aladdin's House. Inside, Sora's group moved the drawer that 
+the Carpet was stuck to and the Carpet flew away.
+
+Donald: The carpet flew off toward the desert. Let's follow it, Sora!
+
+Sora's group proceeds to the Desert where the Carpet is standing.
+
+Donald: It wants us to come along?
+
+Sora: All aboard.
+
+Sora's group takes the Carpet to where Aladdin is trapped in a 
+quicksand. Before Sora's group could rescue him, groups of Heartless got 
+in their way. After Sora's group defeated them...
+
+Goofy: Gawrsh, not again!
+
+There are more Heartless. Aladdin manages to free himself from the 
+quicksand and takes out a lamp.
+
+Aladdin: Genie, get rid of these guys!
+
+The Genie then appeared out of the lamp.
+
+Genie: (humorous act) Wish Number One, coming right up!
+
+Genie eliminated the Heartless instantly. After that, Sora's group and 
+Aladdin are back in the Desert. Sora told Aladdin what is going on.
+
+Aladdin: I see... Thanks, Sora.
+
+Sora: Aladdin, what're you doing out here?
+
+Aladdin: Same old stuff. Hunting legendary treasure. Just paid a visit 
+to the Cave of Wonders. I found that magic carpet, and this lamp. Legend 
+has it that whoever holds the lamp summon the-
+
+Genie: (humorous act) Please, kid, leave the intros to a professional. 
+The one and only GENIE OF THE LAMP! Rub-a-dub-dub the lamp and have your 
+dearest wishes granted. Today's winner is...Aladdin! Congratulations!
+
+Donald: Any wish?
+
+Genie: Patience, my fine, feathered friend! (splits into three and shows 
+three finger) Any three wishes! A one wish, a two wish, three wish. Then 
+I make like a banana and split! Our lucky winner made his first wish-and 
+let me tell you, what a today that wish was-so he has two left. So, 
+master, what'll you have for Wish Number Two?
+
+A light appeared on Aladdin.
+
+Aladdin: Hmm, how about making me a fabulously wealthy prince?
+
+Genie: Oooh! Money! Royalty! Fame! Why didn't I think of that? Okay, you 
+asked for it! A hundred servants and a hundred camels loaded with gold! 
+Just say the word and I'll deliver it in 30 minutes or less, or your 
+meal's free. Hey, I'll even throw in a cappuccino! Okay.
+
+Aladdin: I think I'll put that on hold until we reach Agrabah.
+
+Goofy: Uh, why a prince?
+
+Aladdin: You see, there's this girl in Agrabah named Jasmine. But she's 
+a princess, and I'm... Aw, she could never fall for a guy like me.
+
+Donald: Oh. Princess?
+
+Goofy: Jasmine?
+
+Sora: Oh, that's right! She's in trouble, Aladdin!
+
+Aladdin: What? Well, c'mon, let's get going!
+
+Sora's group on the Carpet flies back to Agrabah and Genie follows.
+
+Genie: Ah, fresh air! The great outdoors!
+
+Sora: I guess you don't get out much, huh?
+
+Genie: Comes with the job. Phenomenal cosmic powers. Itty-bitty living 
+space. It's always three wishes, then back to my portable prison. I'm 
+lucky to see the light of day every century or two...
+
+Aladdin: Say, Genie, what if I use my last wish to free you from the 
+lamp? What do you think?
+
+Genie: (excited) You'd do that?
+
+Aladdin: Genie, it's a promise. After we help Jasmine.
+
+Sora's group enters Aladdin's House. In there...
+
+Aladdin: So, Jafar is after Jasmine and this "Keyhole".
+
+Genie: Keyhole, eh? I could swear I've heard about that somewhere 
+before...
+
+Donald: Really? Where?
+
+Genie: Now, where was it? It's only been 200 years...
+
+Sora: Well, anyway, we've got to stop Jafar before it's too late.
+
+Sora's group exits Aladdin's House. Sora's group then saw Jafar and 
+Jasmine.
+
+Jafar: Settings your sights a little high, aren't you, boy? Back to your 
+hole, street rat. I will not allow you to trouble the princess any more.
+
+Aladdin: Jasmine!
+
+Jasmine: I'm so sorry, Aladdin.
+
+Aladdin holding a lamp with his hands behind his back rubs it.
+
+Aladdin: Genie, help Jasmine. Please!
+
+Genie appeared and picked up Jasmine.
+
+Genie: One wish left! You're making this really easy, you know.
+
+Jafar: So sorry, boy. I'm afraid your second wish has been denied.
+
+Iago secretly took the lamp from Aladdin.
+
+Genie: I'm sorry, Al.
+
+Genie disappeared and Jasmine dropped into a pot. The pot appeared as a 
+Heartless.
+
+Jafar: And now, I bid you all farewell. Attack!
+
+Sora's group fights Pot Centipede. After Sora's group defeats Pot 
+Centipede, they received the Ray of Light accessory. Later...
+
+Aladdin: Jasmine!
+
+Sora's group heard Jafar's evil laugh.
+
+Aladdin: To the desert! Come on, let's move!
+
+Sora's group proceeds to the Desert and rides the Carpet to the area 
+where Sora's group saw Aladdin. The Cave of Wonders Guardian appeared 
+and attacks. Sora's group fights the Cave of Wonders Guardian. After the 
+fight, the guardian stops and opens its mouth to reveal an entrance. 
+Sora's group enters the Cave of Wonders. In there, they explore for a 
+while until Sora finds a pillar to smash. After that, the screen 
+switches to Jafar, Jasmine who is unconscious, and Genie who is unhappy.
+
+Jafar: (holding a lamp) My first wish, Genie! Show me the Keyhole!
+
+Genie revealed the Keyhole to Jafar. The screen switches to Sora's group 
+where they proceed to the Treasure Room. Then, Sora's group enters the 
+Lamp Chamber. In there...
+
+Maleficent: That boy again?
+
+Jafar: He's more persistent than I expected. Why not explain the 
+situation to that boy Riku? Doing so may actually prove useful to our-
+
+Sora's group arrived at the scene.
+
+Sora: Wait a second. Are you Maleficent?
+
+Without a word, Maleficent disappeared.
+
+Aladdin: Jafar, let Jasmine go!
+
+Jafar: Not a chance. You see, she's a princess-one of seven who somehow 
+hold the key to opening the door.
+
+Goofy: Open...
+
+Donald: ...the door?
+
+Jafar: But you fools won't live to see what lies beyond it. (to Genie) 
+Genie! My second wish. Crush them!
+
+Aladdin: Genie, no!
+
+Genie: Sorry, Al. The one with the lamp calls the shots. I don't have a 
+choice.
+
+Sora's group fights Jafar with Genie assisting Jafar in the fight. After 
+Sora's group defeated Jafar, Sora's Blizzard magic got upgraded to 
+Blizzara. After that, Sora's group approaches the unconscious Jasmine. 
+Then, Jafar appeared.
+
+Jafar: (floating in midair) Genie! My final wish! I want you to make me 
+an all-powerful genie!
+
+Unable to stand it at all, Genie turned Jafar into Genie Jafar and Genie 
+Jafar goes underground in the lava area. Sora's group goes down the pit 
+to the lava area. Then, Aladdin saw Iago carrying Jafar's lamp.
+
+Aladdin: The lamp! Get Jafar's lamp!
+
+Sora's group fights Genie Jafar. The way Sora's group ended this battle 
+victoriously is by attacking Jafar's lamp. After that...
+
+Sora: (holding Jafar's lamp) Okay, Jafar! Back to your lamp!
+
+After Genie Jafar got sucked into the lamp Sora's Fire spell got 
+upgraded to Fira and he also received Ansem's Report 1. The screen 
+switches to Jasmine who woke up and suddenly captured by someone. Sora's 
+group got up to the area where Jasmine disappeared.
+
+Aladdin: Jasmine? Jasmine!
+
+The Keyhole is illuminating and Sora uses his Keyblade to shoot a beam 
+at the Keyhole locking it forever from the Heartless. Then suddenly, the 
+area is shaking...
+
+Goofy: Whoa, we'd better get out of here!
+
+Aladdin: Jasmine!
+
+Sora's groups restrained Aladdin so he stays with them and not get left 
+behind. The Carpet takes Sora's group out of the Cave of Wonders and 
+back to Agrabah. Later, in Aladdin's House...
+
+Aladdin: So, Jasmine's no longer in Agrabah. Sora, let's go find her.
+
+Sora: Sorry. I can't take you with me.
+
+Aladdin: Wh-Why not?
+
+Goofy: I sure wish we could...
+
+Donald: But we can't. If we take him to another world, we would be...
+
+Goofy: Muh... Mudd--
+
+Donald: Meddling!
+
+Sora: Aladdin, we'll find Jasmine. I promise.
+
+Genie: (to Aladdin) Uh, earth to Al. Hello? You still have one wish 
+left. Look, just say the word. Ask me to find Jasmine for you.
+
+Aladdin: I...I wish... ...for your freedom, Genie.
+
+Genie's legs were revealed and his cuffs on his wrists disappeared.
+
+Aladdin: A deal's a deal, Genie. Now, you can go anywhere you want. 
+You're your own master. But if you can, it'd be great if you could go 
+along with them and help Sora find Jasmine.
+
+Genie: Hmm. Sorry, Al. I'm done taking orders from others. But... A 
+favor, now that's entirely different. I guess I could give that a try. 
+After all, we're pals, right, Al?
+
+Aladdin: Genie...
+
+Genie: Just leave it to me!
+
+The screen switches to the dark area with Maleficent, Hades, and Riku.
+
+Hades: That smarmy vizier could've had 'em-if someone had stuck around 
+to give him a hand.
+
+Riku: Hey, I did my part. I brought the princess, didn't I?
+
+Maleficent: Jafar was beyond help, consumed by his own hatred. One 
+should beware of letting it burn too fiercely.
+
+Hades: Whoa, whoa, whoa. Lighten up. I'm as cool as they come, okay? (to 
+Riku) By the way, kid, have we got something special for you.
+
+Riku: Huh?
+
+Maleficent: We had a deal, yes? You helped us, and we grant you your 
+wish...
+
+The image of Kairi laying down unconscious appeared at the table.
+
+Riku: Kairi!
+
+Maleficent: Go to her. Your vessel is waiting.
+
+Captain Hook appeared.
+
+Captain Hook: Just remember, this is no pleasure cruise. It won't be a 
+pleasant voyage.
+
+Riku: Why are you doing all this for me? What's the catch?
+
+Maleficent: Catch? What's the catch? Silly boy. You're like a son to me. 
+I only want you to be happy.
+
+Maleficent gently touches Riku's face and Riku angrily shoves 
+Maleficent's hand away from his face.
+
+Riku: I seriously doubt that.
+
+Maleficent: Believe what you wish. But lest we forget, I kept my end of 
+the bargain.
+
+Riku left the scene. Later with Sora's group, Sora can now summon Genie.
+
+Aladdin: Here. Take this with you.
+
+Sora received Three Wishes key chain and Sora's group learned Green 
+Trinity.
+
+Aladdin: Sora, please find Jasmine for me.
+
+Sora's group boards the Gummi Ship. While traveling, they saw a huge 
+whale passing by.
+
+Donald: What is that?
+
+Sora: Wow, it's huge!
+
+The whale went past the Gummi Ship.
+
+Goofy: It's a giant whale!
+
+Jiminy: It's Monstro! He's a whale of a whale, and vicious besides!
+
+Monstro came back.
+
+Donald: Whoa! Sora, get us out of here!
+
+Sora: Too late! He's going to swallow us!
+
+Monstro swallowed the Gummi Ship along with Sora's group. In Sora's 
+dream when he was young along with young Riku...
+
+Sora: It's true! I saw it with my own eyes!
+
+Riku: You sure you didn't just hear it this time?
+
+Sora: What difference does it make? There's a huge monster in there, I 
+tell you!
+
+Riku: All right. Suppose there really is a monster... Think we can beat 
+it by ourselves, Sora?
+
+Sora: No problem. Let's do it! Listen! There! Can you hear it growling?
+
+Riku: Shh, quiet. We've gotta be careful.
+
+In the cave...
+
+Riku: See that? It was just the wind making that noise.
+
+Sora: Aw, man. I wish it was a monster! (saw a door) Hold on! What's 
+that over there?
+
+Riku: A window, or maybe a door? It won't open.
+
+Sora: Geez, is that really all that's in here?
+
+Riku: What do you expect in a boring place like this? Hey, Sora.
+
+Sora: Hm?
+
+Riku: When we grow up, let's get off this island. We'll go on real 
+adventures, not this kid stuff!
+
+Sora: Sure. But isn't there anything fun to do now? Hey, you know the 
+new girl at the mayor's house?
+
+Sora's dream ended. Later inside Monstro, Donald Duck is waiting 
+impatiently.
+
+Donald: Knock it off!
+
+Sora gets up.
+
+Goofy: Hey, Sora. Are you okay?
+
+Sora: What are you guys doing? Where are we, anyway?
+
+Suddenly, an item dropped and it narrowly misses Sora.
+
+Goofy: Uh, ya know, I think that big ol' whale Monstro just swallowed 
+us. And for today's weather: expect showers.
+
+An item dropped on Goofy, but it hit his shield.
+
+Goofy: Heavy showers!
+
+Donald: Hey! Who's there?
+
+Pinocchio: It's me.
+
+Donald: Oh, it's just Pinocchio. Pinocchio!?
+
+Pinocchio walks away with the item he found in the treasure chest.
+
+Jiminy: Pinocchio? Pinocch, where are you going? Pinocch! Come on, 
+everybody! After him! Quick!
+
+Sora's group moves closer to the shipwreck.
+
+Geppetto: What have you got there, Pinocchio?
+
+Pinocchio: With this, we can get out of here, Father.
+
+Geppetto: Really? With this big block? You think so?
+
+Sora's group later finds Pinocchio with Geppetto.
+
+Sora: It's true. (to Pinocchio) So, how did you end up here, Pinocchio?
+
+Geppetto: Oh, my. So the whale swallowed all of you, too? My goodness.
+
+Sora: Yeah, looks like it.
+
+Geppetto: My name is Geppetto. I'm Pinocchio's father. When we got 
+separated, I traveled all over, looking for him. Thank goodness we're 
+together again.
+
+Pinocchio suddenly spots Riku running into the other area of Monstro. 
+Geppetto moves the large green object that Pinocchio found.
+
+Geppetto: So, you seem to know Pinocchio quite well. I hope he was a 
+good boy in my absence. Well, we've all had quite a journey. Right, 
+Pinocchio? Pinocchio?
+
+Pinocchio disappeared. Sora's group goes to Chamber 1. In there...
+
+Sora: (to Pinocchio) What are you doing? Come on, let's go back.
+
+Goofy: You know, Geppetto's awfully worried about you.
+
+Sora: Pinocchio, stop fooling around! This is no time for games!
+
+Before Sora's group could leave...
+
+Riku: But, Sora, I thought you liked games. Or are you too cool to play 
+them now that you have the Keyblade?
+
+Sora: Riku! Wh-What are you doing here?
+
+Riku: Just playing with Pinocchio.
+
+Sora: You know what I mean! What about Kairi? Did you find her?
+
+Riku: Maybe. Catch us and maybe I'll tell you what I know.
+
+Sora: Come on!
+
+Riku grabs Pinocchio's arm and takes off to another area. Sora's group 
+goes after them. Later in Chamber 6...
+
+Maleficent: (to Riku) Why do you still care about that boy? He has all 
+but deserted you for the Keyblade and his new companions, after all.
+
+Riku: I don't care about him. I was just messing with him a little.
+
+Maleficent: Oh, really? Of course you were. Beware the darkness in your 
+heart. The Heartless prey upon it.
+
+Riku: Mind your own business.
+
+Maleficent went through a portal and disappeared. Sora's group chases 
+Pinocchio and then, they saw Riku.
+
+Sora: Riku! What's the matter with you? What are you thinking? Don't you 
+realize what you're doing?
+
+Riku: I was about to ask you the same thing, Sora. You only seem 
+interested in running around and showing off that Keyblade these days. 
+Do you even want to save Kairi?
+
+Sora: I do.
+
+Sora's group proceeds to the Bowels. In there, they saw Pinocchio 
+trapped in Parasite Cage.
+
+Riku: You up for this?
+
+Sora: No problem. Let's do it!
+
+Riku: Hmph.
+
+Sora's group and Riku fight Parasite Cage. After the fight, Parasite 
+Cage releases Pinocchio and got away. Pinocchio fell into a pit and Riku 
+follows. Sora's group jumps down the pit and they ended up back in the 
+Mouth. Then...
+
+Geppetto: Pinocchio! Pinocchio! Please! Give me back my son!
+
+Riku: (holding the unconscious Pinocchio) Sorry, old man. I have some 
+unfinished business with this puppet.
+
+Geppetto: He's no puppet! Pinocchio is my little boy!
+
+Riku: He is unusual. Not many puppets have hearts. I'm not sure, but 
+maybe he can help someone who's lost theirs.
+
+Sora: Wait a minute. Are you talking about Kairi?
+
+Riku: What do you care about her?
+
+Riku got away. Sora's group chases after them in the Throat. Then, 
+Sora's group gets sucked up to the Stomach. In there...
+
+Sora: Hey, let Pinocchio go, Riku.
+
+Riku: A puppet that's lost its heart to the Heartless... Maybe it holds 
+the key to helping Kairi. How about it, Sora? Let's join forces to save 
+her. We can do it, together.
+
+Sora readies his Keyblade.
+
+Riku: What? You'd rather fight me? Over a puppet that has no heart?
+
+Sora: Heart or no heart, at least he still has a conscience.
+
+Riku: Conscience?
+
+Sora: You might not hear it, but right now it's loud and clear. And it's 
+telling me you're on the wrong side!
+
+Riku: Then you leave me no choice.
+
+Jiminy: Pinocchio! Pinocchio!
+
+Pinocchio woke up, but in bad shape.
+
+Pinocchio: Jiminy... I'm not gonna make it.
+
+Pinocchio's nose grew longer and he feels fine.
+
+Pinocchio: Oh! I guess I'm okay!
+
+Jiminy Cricket jumps up and down. Suddenly, Parasite Cage appeared from 
+midair dropping to the ground. Riku disappeared through a portal. Sora's 
+group fights Parasite Cage for the second time. After Sora's group 
+defeats Parasite Cage...
+
+Donald: Run!
+
+Sora: Riku! Riku, where are you?
+
+Sora's group escapes. Sora attained the power of time. Meanwhile in the 
+ship with Riku and the unconscious Kairi...
+
+Riku: So, Kairi's like a lifeless puppet now?
+
+Maleficent: Precisely.
+
+Riku: And her heart was...
+
+Maleficent: Taken by the Heartless, no doubt.
+
+Riku: Tell me! What can I do?
+
+Maleficent: There are seven maidens of the purest heart. We call them 
+the princesses of heart. Gather them together, and a door will open to 
+the heart of all worlds. Within lies untold wisdom. There you will 
+surely find a way to recover Kairi's heart. Now, I'll grant you a 
+marvelous gift. The power to control the Heartless.
+
+Maleficent gave the power to control the Heartless to Riku.
+
+Riku: Soon, Kairi. Soon.
+
+Later, Monstro sneezes out the Gummi Ship.
+
+Goofy: I sure hope Pinocchio and Geppetto are okay.
+
+Donald: Yeah, hopefully they landed safely somewhere.
+
+Sora: Riku...
+
+Sora's group pilots the Gummi Ship to Traverse Town. There, Sora's group 
+enters a new house. Pinocchio and Geppetto are inside.
+
+Sora: Pinocchio?
+
+Pinocchio: Hey, it's Sora!
+
+Geppetto: Well, hello, Sora!
+
+Sora: How did you get here?
+
+Geppetto: A man named Leon helped us. He even got us this house to live 
+in. I don't know how I'll ever repay his kindness. Say, I hear you three 
+are fighting the Heartless. I thought I might be able to help you, so I 
+made this.
+
+Sora's group obtained the item Geppetto.
+
+Sora: For us?
+
+Geppetto: But of course! Pinocchio and I can't thank you enough! We'll 
+do anything we can to help you.
+
+Sora's group takes off with the Gummi Ship to Atlantica.
+
+Donald: Okay, guys. Prepare for landing.
+
+Sora: Land where? In the sea? We'll drown!
+
+Donald: Not with my magic, we won't. Just leave it to me.
+
+Later in Atlantica, Sora appeared as a merman, Donald appeared as an 
+octopus, and Goofy appeared as a sea turtle.
+
+Ariel: Come on, Sebastian!
+
+Sebastian: Ariel, wait! Slow down! Don't leave me behind!
+
+Just when Sebastian saw Donald, he freaked out. Ariel, Flounder, and 
+Sebastian appeared.
+
+Ariel: Relax, Sebastian. They don't look like one of them. Right, 
+Flounder?
+
+Flounder: I don't know. There's something weird about them.
+
+Sora laughs nervously.
+
+Sora: What do you mean?
+
+Ariel: They do seem...a little different. Where are you from?
+
+Sora: We're from kind of far away. And we're not really used to these 
+waters.
+
+Sora laughs nervously again.
+
+Ariel: Oh, I see. In that case... Sebastian can show you how we swim 
+around here.
+
+Sebastian: Ariel, King Triton will not like this!
+
+Ariel: Oh, don't worry.
+
+Sebastian: Easy for you to say... (to Sora's group) Okay, it's time you 
+learn how to swim properly. Practice swimming with Flounder. Try to tag 
+him. All right. Begin.
+
+Sora's group practice swimming. After that...
+
+Sebastian: Good job. Now let's move on to self-defense.
+
+Ariel: Sebastian!
+
+Suddenly, the Heartless arrived.
+
+Sebastian: Class is over. Good luck!
+
+Ariel gets away and Flounder and Sebastian hides in a clamshell. Sora's 
+group fights and defeats the Heartless. After that, Ariel came back and 
+Sora hits the clamshell with his Keyblade to free Flounder and 
+Sebastian.
+
+Ariel: Those creatures chased us here.
+
+Sebastian: Oh, no! Those monsters might be heading for the palace, too!
+
+Ariel: We'd better head back right away!
+
+Flounder: But, wh-what if we run into more on our way back?
+
+Ariel: (to Sora's group) I'm sorry, but we need your help. Please come 
+to the palace with us. The trident markers on the walls point the way 
+there. We won't get lost as long as we follow them. Okay, let's get 
+going.
+
+Sora's group proceeds to Triton's Throne. In there, Sora's group was 
+chased after the Heartless. Then, a lightning zapped and defeated the 
+Heartless.
+
+Triton: That was too close. As long as I have my trident, I will not 
+tolerate those creatures inside this palace.
+
+Ariel: Daddy!
+
+Triton: Oh, Ariel! When will you listen? It's dangerous out there!
+
+Ariel was going to respond, but was interrupted by Triton.
+
+Triton: Strange creatures lurk outside.
+
+Sebastian: (clears his throat) Behold. You swim before the ruler of the 
+seas: His Majesty, King Triton.
+
+Triton: And who are they?
+
+Ariel: They helped us fight off those creatures.
+
+Triton: They don't look familiar.
+
+Sora: We're from an ocean very far away.
+
+Goofy: Yup. We came to find the Keyhole.
+
+Triton: The what?
+
+Ariel: What's that?
+
+Goofy: Well, it's a-
+
+Triton: There's no such thing. Certainly not here.
+
+Ariel: But, Daddy...
+
+Sebastian: Ariel, not another word!
+
+Triton: You are not to leave the palace. Is that clear?
+
+Ariel frowns and Sora's group left Triton's Throne.
+
+Triton: Perhaps I'm being too strict... I'm just concerned for her 
+safety.
+
+Sebastian: Of course, Your Majesty. But I must admit, now I'm quite 
+curious about this Keyhole.
+
+Triton: That need not concern you, Sebastian. Have you anything to 
+report?
+
+Sebastian: Just as you suspected, Your Majesty, they seem to be coming 
+from Ursula's grotto.
+
+Triton: I knew it. That sea witch is up to no good again. I see exile 
+from the palace has taught her nothing.
+
+Sebastian: Yes, she poses serious danger.
+
+Triton: And I told you to keep Ariel away from such danger, did I not?
+
+Sebastian: You Majesty, please. I, uh...
+
+Sora's group exits Triton's Palace. Outside...
+
+Ariel: Come to my grotto. I want to show you something. There it is. 
+See?
+
+Sora's group proceeds to Ariel's Grotto. Inside...
+
+Ariel: Look at all the wonderful things Flounder and I've collected. I 
+think it's all from the outside world. Someday, I'm going to see what's 
+out there. I want to see other worlds. Does that sound strange?
+
+Sora: No. Not at all. I used to feel the same way.
+
+Ariel: Used to?
+
+Sora: I mean...I still do.
+
+Ariel: Hey, why don't we try looking for that Keyhole you were talking 
+about?
+
+Sora: But your father said-
+
+Ariel: Oh, he treats me like a little girl. He never wants to let me do 
+anything. He just... He just doesn't understand.
+
+The camera shows Sebastian overhearing the conversation. After that, 
+Jetsam and Flotsam appeared after Sora's group left Ariel's Grotto. 
+Meanwhile with Ursula...
+
+Ursula: Those impudent fools will never find the Keyhole. But the girl 
+could prove useful. And I've got the Heartless on my side. Triton, my 
+old friend... Your day is coming.
+
+Ursula laughs in an evil way. Sora's group rides the dolphin to the 
+Sunken Ship. The Shark destroyed the window and got away while Sora's 
+group found the Crystal Trident.
+
+Ariel: Hm. Its shape reminds me of something...
+
+Sora's group heads back to Ariel's Grotto and Sora placed the Crystal 
+Trident into the trident slot. Then...
+
+Triton: Ariel, you've disobeyed me again! I told you not to leave the 
+palace!
+
+Triton saw the Crystal Trident and furiously strikes lightning on the 
+Crystal Trident.
+
+Ariel: Daddy, no!
+
+The Crystal Trident was shattered.
+
+Ariel: How could you...
+
+Ariel swam away upset.
+
+Triton: (to Sora) Young man, you're not from another ocean. You're from 
+another world. Aren't you? Then you must be the key bearer.
+
+Sora: How did you know?
+
+Triton: You may fool Ariel, but you can't fool me. You don't know your 
+dorsal fin from your tail. As the key bearer, you must already know... 
+One must not meddle in the affairs of other worlds.
+
+Sora: Of course I know that, but...
+
+Triton: You have violated this principle. The key bearer shatters peace 
+and brings ruin.
+
+Goofy: Aw, Sora's not like that.
+
+Triton: I thank you for saving my daughter. But there is no room in my 
+ocean for you or your key.
+
+Meanwhile, Ariel is crying alone and Jetsam and Flotsam appeared.
+
+Jetsam: My, my, the poor child suffers such deep sorrow.
+
+Flotsam: What a pity. If only there were something we could do...
+
+Jetsam: Wait. Maybe she can be of some help.
+
+Flotsam: Yes. Maybe she can be of some help to you.
+
+Ariel: (stops crying) Who're you talking about?
+
+Jetsam: Oh, she would surely help you. She'd make all your dreams come 
+true.
+
+Jetsam and Flotsam formed together and Ursula appeared.
+
+Ursula: You called, my dear?
+
+Ariel: You're Ursula? I was just wondering if-
+
+Ursula: It's all right. Helping others is what I live for. Let me guess. 
+You wish to see other worlds. That shouldn't be too hard. After all, 
+your new friends came from another world.
+
+Ariel: What?
+
+Ursula: But they had special help-that mysterious key.
+
+Ariel looks confused.
+
+Ursula: Now, now. Cheer up, sweetie. You have something special, too.
+
+Ariel: Huh?
+
+Ursula: Now listen carefully.
+
+Later, Sora's group proceeds to Triton's Palace. In there...
+
+Ursula: I think the Keyhole they seek is somewhere in the palace. Now, 
+my dear, if you can take me there without your daddy knowing... I can 
+help you get to those other worlds you long for.
+
+Sora's group then proceeds to Triton's Throne. In there, Ursula laughs 
+as she seizes the trident.
+
+Ursula: The trident is mine at last! And I couldn't have done it without 
+your help, my dear.
+
+Ariel: Ursula, no! I didn't want this!
+
+Ursula: Why not? Aren't you tired of following your dear daddy's orders? 
+Oh, yes. We had a deal, didn't we? Time for a little journey-to the dark 
+world of the Heartless!
+
+Jetsam: We cannot find the Keyhole.
+
+Flotsam: The Keyhole is not here.
+
+Ursula: What?
+
+Sora's group arrived.
+
+Ursula: Why, we have company. I'm afraid you're a little late, handsome!
+
+Ursula disappeared.
+
+Ariel: Daddy!
+
+Triton: (in bad shape) The trident... We must get it back.
+
+Sora: Come on, let's go!
+
+Ariel: Wait, I'm going with you! My father is hurt and it's all my 
+fault. I have to stop Ursula!
+
+Sora's group agrees.
+
+Sebastian: That's right. I'm behind you, Ariel.
+
+Triton: Ursula draws power from her cauldron. To defeat Ursula, you must 
+strike her cauldron with magic.
+
+Sora's group proceeds to the Sunken Ship. There, Sora examines the 
+boulder.
+
+Sebastian: Need some help? I'll show you how it's done.
+
+Sebastian pushed the switch that was out of reach for Sora's group. 
+Sora's group proceeds to the Den of Tides, then to Ursula's Lair. In 
+there, Ursula is about to come out of her hiding spot.
+
+Donald: Come out! You can't run!
+
+Sebastian: Your time has come!
+
+Ursula scares Sora's group with her mean frown. Then, Sora's group 
+fights Ursula, Jetsam, and Flotsam. After the fight, Jetsam and Flotsam 
+were defeated and they disappeared.
+
+Ursula: You'll pay for this!
+
+Ursula got away. 
+
+Ariel: Let's go. We must get the trident back.
+
+Sora's group learned Mermaid Kick. Sora's group proceeds to the Calm 
+Depths and using their new Mermaid Kick ability to swim faster past the 
+current. In the mysterious area...
+
+Ursula: You pathetic fools! I rule the sea now!
+
+Ursula uses the trident to grow bigger and powerful.
+
+Ursula: The sea and all its spoils bow to my power!
+
+Sora's group fights Ursula. After Sora's group defeated Ursula, Ursula 
+disappeared and the trident came back to Sora's group's possession. 
+Later at Triton's Throne...
+
+Ariel: Daddy, I'm so sorry.
+
+Sora: Please don't be angry with her.
+
+Triton: It's my fault. You followed Ursula because...I wouldn't let you 
+follow your heart. And when you found that crystal, I lost my temper and 
+destroyed it.
+
+Goofy: Oh, yeah, the crystal! Why did you destroy it?
+
+Triton: That crystal held the power to reveal the Keyhole. The Keyhole 
+is dangerous. I had to keep you away from it at any cost.
+
+Ariel: Daddy...
+
+Triton: Key bearer, I have one more request: Seal the Keyhole. My 
+trident also holds the power to reveal the Keyhole. Will you do it?
+
+Sora: Of course. That's what we had in mind from the start.
+
+Ariel: Where is the Keyhole, Daddy?
+
+Trident: You should know better than anyone. It's in your grotto.
+
+Goofy: Really... Sora, let's go.
+
+Sora's Thunder spell got upgraded to Thundara and they also received 
+Ansem's Report 3. Sora's group proceeds to Ariel's Grotto. In there, 
+Ariel uses the trident on the trident symbol and a Keyhole was revealed. 
+Sora uses his Keyblade and shot a beam at the Keyhole sealing this world 
+from the Heartless forever. After that...
+
+Ariel: Tell me, Sora. Your world, what's it like?
+
+Sora: Oh, about that... Sorry for lying to you.
+
+Ariel: It's okay. Besides, if you can travel to other worlds, maybe I 
+can, too.
+
+Ariel swims up to the area where there is light.
+
+Ariel: So many places I want to see... I know I'll get there someday. 
+I'll find a way somehow. I'm sure of it.
+
+Sebastian: Well, if you find it, do me a favor and leave me out of it.
+
+Later...
+
+Ariel: This is from my collection. I want you to have it.
+
+Ariel gave Sora a Crabclaw key chain. Sora's group then exits Atlantica 
+and boards the Gummi Ship and takes off to Halloween Town. In there, 
+Sora's group appears in spooky costumes.
+
+Goofy: This sure is a spooky place. I'll bet the people here are scary-
+lookin' too.
+
+Donald: Don't worry. We look spooky, too. If they scare us, we'll scare 
+them right back!
+
+Goofy: You think so?
+
+Sora's group proceeds to the Guillotine Square and saw the ghosts there, 
+but they ignore them. Then the mayor speaks...
+
+Mayor: And now, allow me to introduce the master of terror, the king of 
+nightmares-Jack Skellington!
+
+Jack Skellington appeared from the well.
+
+Mayor: Bravo, Jack! Bravo! Those ghosts will be a big hit at this year's 
+Halloween!
+
+Jack: Thank you, thank you! But their movement still needs work. It's 
+not scary enough. I want to strike bone-chilling terror. I'm going to 
+consult the doctor.
+
+Jack Skellington left to see the doctor.
+
+Mayor: Then I'll go attend to the decorations.
+
+Sora's group enters the Lab Entryway then to the Research Lab. Inside...
+
+Jack: I don't understand. Maybe the guidance system was damaged in the 
+explosion.
+
+Dr. Finkelstein: Nonsense. My devices are always perfect!
+
+Jack: Oh, I've got it! Why of course! The Heartless need a heart! 
+Doctor, do you think we can add a heart to that device?
+
+Dr. Finkelstein: Certainly. A heart's not all that complicated. Let's 
+get to work.
+
+Jack: To make a heart, first take a container with a lock...
+
+Jack examines the heart with a Keyhole.
+
+Dr. Finkelstein: We need the key to this thing first!
+
+Sora's group arrived.
+
+Donald: You're really gonna unlock it for them?
+
+Sora: Why not? If they succeed, we won't have to fight the Heartless, 
+right? Besides, I want to see the Heartless dance, too. Don't you?
+
+Donald: Not really.
+
+Sora tried to use his Keyblade to shoot a beam at the Keyhole, but it 
+doesn't work because no beam came out of the Keyblade.
+
+Jack: My! That was amazing! Uh, and you are...
+
+Sora: Sora.
+
+Jack: Well done, Sora! I'd like you to be part of this year's Halloween.
+
+Sora: What's this Heartless doing here?
+
+Jack: Oh, the Heartless came to town just recently. What's frustrating 
+is I can't get them to dance with me. So the doctor and I are trying to 
+improve the guidance system. He's quite a genius! (to Dr. Finkelstein) 
+Okay, Doctor, let's continue. The ingredients for a heart: Pulse. 
+Emotion. Terror. Fear. Hope and despair. Mix them all together, and we 
+have a heart!
+
+Dr. Finkelstein moves his electric wheelchair to the lever and activates 
+it. The project failed.
+
+Jack: It failed!
+
+Dr. Finkelstein: Maybe we're missing some ingredients. Let's try adding 
+memory.
+
+Dr. Finkelstein opens the lid of his head and touches his brain.
+
+Dr. Finkelstein: Sally! Sally! Good-for-nothing girl! Don't know why I 
+bothered creating her! (closes the lid on his head) Sally's got the 
+memory we need. See if you can track her down.
+
+Jack: No problem. Sora, would you like to come along?
+
+Sora: Sure.
+
+Sora's group exits the Lab Entryway. Outside...
+
+Mayor: Jack! Jack! We have a major crisis! The Heartless are completely 
+out of control! We can't stop them!
+
+Jack: Hmm... Maybe our experiment triggered something. Everything will 
+be fine, Mayor. You have nothing to worry about.
+
+Sora's group proceeds to the Graveyard.
+
+Sora: Let's check this place, too, once the Heartless here are out of 
+our way.
+
+Sora's group fights and defeats the group of Heartless and after that, 
+Zero appeared.
+
+Jack: Zero! Have you seen Sally anywhere?
+
+Zero showed where Sally is.
+
+Sally: Is something wrong, Jack?
+
+Jack: No, everything's going great. We're going to have the best 
+Halloween ever. All we need now is your memory.
+
+Sally: "Memory"? You mean this?
+
+Sora's group received Forget-Me-Not.
+
+Sally: Jack, I have a bad feeling about this. Why don't you try 
+something else? There's still time.
+
+Jack: Nothing could beat what I've got planned! Once we give the 
+Heartless a heart, they'll dance just as I envision it. Trust me. You're 
+going to love it!
+
+Sora's group and Sally move on. Later, three little characters came out 
+of the coffin.
+
+Lock: Lock!
+
+Shock: Shock!
+
+Barrel: Barrel!
+
+Lock, Shock, and Barrel appeared.
+
+Barrel: Did you hear that?
+
+Lock: Yeah, I sure did! A heart! What should we do?
+
+Shock: Gosh, you really are stupid! Isn't it obvious?
+
+Barrel: Tell Oogie Boogie.
+
+Sora's group proceeds to the Research Lab. Inside, Sora showed Dr. 
+Finkelstein the Forget-Me-Not.
+
+Dr. Finkelstein: Yes. This is it. Now, just one more ingredient. We need 
+"surprise" to complete the heart. The mayor should know where it is.
+
+Meanwhile, Lock, Shock, and Barrel shook in fear after they told Oogie 
+Boogie everything. Oogie Boogie laughs.
+
+Oogie Boogie: A heart? That bonehead Jack is really making a heart? I'll 
+be jiggered! That works for me! Ohh, when I get my hands on that... 
+Well, I've got no hands, but I'm still gonna nab that heart and control 
+the Heartless.
+
+Oogie Boogie laughs. Later, Sora's group finds the Mayor in the Boneyard 
+and talks to him.
+
+Mayor: Ghosts rise from those tombstones.  Check the tombstones in the 
+order the ghosts appear. If you get it wrong, you're in for a surprise!
+
+After Sora's group solves this puzzle, an explosion was heard from 
+behind.
+
+Mayor: Splendid! Now go look at the pumpkin.
+
+Sora's group examined the destroyed pumpkin and found Jack-in-the-Box. 
+Sora's group returns to the Research Lab and talks to Dr. Finkelstein.
+
+Dr. Finkelstein: Yes. This is it. 
+
+Later, after Dr. Finkelstein gathered all the ingredients...
+
+Dr. Finkelstein: There you go. This time it's sure to work.
+
+Barrel: Ya!
+
+Barrel surprisingly appeared and made Dr. Finkelstein's electric 
+wheelchair fall and Lock, Shock, and Barrel seize the heart. Sora's 
+group goes outside of the Research Lab.
+
+Sora: Aw! We lost them!
+
+Jack Skellington called Zero.
+
+Jack: Zero, after them, quick!
+
+Sora's group enters the Graveyard and Zero spots Lock, Shock, and Barrel 
+getting away with a walking tub. Sora's group follows them to Oogie's 
+Manor. Lock, Shock, and Barrel still are getting away with the moving 
+tub. Sora's group appeared at Oogie's Manor.
+
+Jack: I knew Oogie Boogie was behind this!
+
+Sora's group makes their way to the Evil Playroom. Inside, Sora's group 
+fights Lock, Shock, and Barrel. After Sora's group wins the fight...
+
+Shock: We were just following orders! Oogie Boogie told us to steal the 
+heart. It's all Barrel's fault! It was his idea to tell Oogie Boogie 
+about the heart.
+
+Lock: Yeah, that's right!
+
+Barrel: B-But you guys said-
+
+Shock: You should be ashamed!
+
+Sora's group attacked the lever to reveal the entrance to the Torture 
+Chamber. Sora's group proceeds to the Torture Chamber. Inside...
+
+Jack: Oogie Boogie, give me back the heart!
+
+Oogie Boogie: You want it? Well, then come on over and get it!
+
+Oogie Boogie swallowed the heart.
+
+Oogie Boogie: Now, let's see if I can get their attention. Oh, 
+Heartless!
+
+Two Heartless enemies arrived.
+
+Oogie Boogie: This is it? Nobody disrespects me! Nobody!
+
+Sora's group fights Oogie Boogie. After Sora's group defeats Oogie 
+Boogie, Oogie Boogie's stuffed things fall out of his body and it became 
+flat.
+
+Jack: So, that heart was a failure after all.
+
+Sora's group received Holy Circlet accessory and Ansem's Report 7. 
+Sora's group goes outside and then all of a sudden, Oogie's Manor grew 
+into a big giant fighting enemy.
+
+Sora: Whoa! How did he get so big? 
+
+Jack: Look! It's brimming with the power of darkness! Oogie Boogie is 
+drawing power from those dark globs!
+
+Sora: So we just have to destroy those things, right?
+
+Sora's group fights the Oogie's Manor. By destroying the dark globs, 
+Oogie's Manor collapsed. A Keyhole appeared on the ground and Sora uses 
+his Keyblade to emit beams on the Keyhole to seal this world from the 
+Heartless forever. Sora's Gravity spell got upgraded to Gravira. Later, 
+back at the Research Lab...
+
+Jack: Sally, why didn't I listen to you?
+
+Sally: Don't feel bad, Jack. We'll come up with another plan for 
+Halloween. (holding each other's hands) Next time, we'll do it together.
+
+Later...
+
+Jack: I guess we have no choice. We'll have to cancel the Heartless 
+Halloween festival for now. Here, I want you to have this.
+
+Jack Skellington gave Sora a Pumpkinhead key chain.
+
+Jack: Visit us any time, Sora. Next year's Halloween will be the 
+scariest ever!
+
+Dr. Finkelstein: Emotion, memory... We put in all the necessary 
+ingredients. What else do you need to make a heart? What is a heart 
+anyway? I can't figure it out.
+
+Sora's group boards the Gummi Ship. While Sora's group is on their way 
+to another area...
+
+Goofy: Uh, a big ship is catching up to us.
+
+Donald: Quit gawking! That's a pirate ship!
+
+The pirate ship is coming towards the Gummi Ship.
+
+Sora: It's going to ram us! Hold on tight!
+
+Sora is separated from Donald Duck and Goofy and is in the pirate ship 
+in Neverland.
+
+Riku: I didn't think you'd come, Sora.
+
+Sora gasp.
+
+Riku: Good to see you again.
+
+Sora: Where are Donald and Goofy?
+
+Riku: Are they that important to you? More important than old friends? 
+Instead of worrying about them, you should be asking...about her.
+
+Riku points to Kairi who is not in good shape.
+
+Sora: Kairi!
+
+Riku: That's right. While you were off goofing around, I finally found 
+her.
+
+Sora tried to get to Kairi, but Captain Hook's left hook arm blocked his 
+way.
+
+Captain Hook: Not so fast. No shenanigans aboard my vessel, boy.
+
+Sora is surrounded by Captain Hook, Mr. Smee, and the Heartless.
+
+Sora: Riku, why are you siding with the Heartless?
+
+Riku: The Heartless obey me now, Sora. Now I have nothing to fear.
+
+Sora: You're stupid. Sooner or later they'll swallow your heart.
+
+Riku: Not a chance. My heart's too strong.
+
+Sora: Riku...
+
+Riku: I've picked up a few other tricks as well. Like this, for 
+instance.
+
+Sora's shadow appeared in front of Sora.
+
+Riku: You can go see your friends now.
+
+An invisible hatch opens and Sora falls into the Hold.
+
+Riku: (to Captain Hook) Let's get under way, already. And keep Sora away 
+from Kairi until we're ready to land.
+
+Riku left.
+
+Captain Hook: (to Mr. Smee) That scurvy brat thinks he can order me 
+around!
+
+Mr. Smee: What shall we do, Captain Hook?
+
+Captain Hook: Nothing! The hold is crawling with Heartless. Let them 
+keep an eye on the brats.
+
+Mr. Smee: But, Captain, you-know-who is also down-
+
+Captain Hook: Shh... Did you hear that, Smee? Oh, that dreadful sound!
+
+Mr. Smee: No, Captain.
+
+Captain Hook: (shaking Mr. Smee's shoulder) Are you quite sure? Did I 
+imagine it? Oh, my poor nerves...
+
+Later in the Hold...
+
+Goofy: You don't say?
+
+Sora: Yeah, it was definitely Kairi. I've finally found her.
+
+Goofy: All right! Then let's go up and talk to her.
+
+Sora: Yeah!
+
+Donald: Sounds great. Okay, but first...how about getting off!
+
+Sora: Oh, sorry.
+
+While Sora's group finds a way out...
+
+Peter: Ahem! How ya doin' there? Looking for a way out?
+
+Peter Pan appeared.
+
+Goofy: Who are you?
+
+Peter: I'm the answer to your prayers.
+
+Donald taps his foot as if he doesn't believe Peter Pan.
+
+Peter: Okay, then. Fine. Have it your way.
+
+Sora: But you're stuck in here, too, aren't you?
+
+Peter: No. I'm just waiting for someone.
+
+Sora: Who?
+
+Suddenly, a glowing thing flies around and lands on Peter Pan's hands.
+
+Peter: Tinker Bell, what took you so long?
+
+Tinker Bell answers without anyone hearing her talk.
+
+Peter: Great job. So you found Wendy?
+
+Tinker Bell answers.
+
+Peter: Hold on. There was another girl there, too?
+
+Tinker Bell nods.
+
+Peter: Are you crazy? There is no way I'm gonna leave Wendy there!
+
+Donald: Aha. She must be pretty jealous.
+
+Donald Duck laughs. Tinker Bell felt offended and kicks Donald Duck in 
+the mouth, making him dizzy. Tinker Bell flew away.
+
+Peter: Come on, Tink! Open up the door!
+
+Sora: Ahem!
+
+Peter: I'm Peter Pan.
+
+Peter Pan waits to shake Sora's hand.
+
+Sora: I'm Sora.
+
+Sora was going to shake Peter Pan's hand, but Peter Pan changed his mind 
+by moving his hand away from Sora's.
+
+Peter: Okay, we're in this together, but only 'til we find Wendy.
+
+Sora's group finds a way out, but at the kitchen...
+
+Goofy: So, uh, how come you can fly?
+
+Peter: Anyone can fly. You wanna try?
+
+Peter Pan whistled to call for Tinker Bell. Tinker Bell arrived.
+
+Peter: Aw, haven't you cooled off yet, Tink?
+
+Peter Pan flies up with Tinker Bell and pixie dust were sprinkled over 
+Sora's group.
+
+Peter: Just a little bit of pixie dust. There. Now you can fly.
+
+Donald Duck jumped up and tried to flap his arms but instead of flying, 
+he fell to the ground. Tinker Bell laughs as Donald Duck taps each 
+finger on the ground. Meanwhile, with Riku and Captain Hook...
+
+Captain Hook: What? So Wendy's not one of the chosen ones?
+
+Riku: There are seven, supposedly, and Maleficent says she's not one of 
+them. Hoist anchor as soon as possible. Leave all the dead weight 
+behind, including her.
+
+Captain Hook: After the trouble of capturing her? And why those seven? 
+What is Maleficent planning, anyway?
+
+Riku: Who knows? As long as it means getting Kairi's heart back, I 
+couldn't care less.
+
+Captain Hook: Hmph. You're wasting your time! The Heartless have 
+devoured that girl's heart. I'll stake me other hand it's lost forever.
+
+Riku: I will find it no matter what.
+
+Voice of Mr. Smee: Uh, Captain...
+
+Mr. Smee is speaking over the pipe tubes.
+
+Captain Hook: What?
+
+Mr. Smee: The prisoners have escaped. What's more, Peter Pan is with 
+them.
+
+Captain Hook: Blast that Peter Pan! All right, then! Bring the hostage 
+to me cabin, Smee! Hop to it!
+
+The screen switches to Sora's group.
+
+Peter: What is it, Tink?
+
+Tinker Bell answers that she spots Wendy on the next floor.
+
+Wendy: Peter? Peter Pan?
+
+Peter: Wendy!
+
+Wendy: Please hurry! The pirates are coming!
+
+Peter: What! I'll be right up there! Just hold on!
+
+Sora: Wendy?
+
+Wendy: Yes?
+
+Sora: Is there another girl in there with you?
+
+Wendy: (looking at Kairi who is in bad shape) Oh, why, yes. But she 
+seems to be asleep. She hasn't budged an inch.
+
+Sora: Kairi? Kairi!
+
+Kairi slightly moves her right arm and fingers. Then all of a sudden, 
+Kairi is being dragged away.
+
+Peter: Wendy! Hey, let's get up there!
+
+Sora's group goes up to the next floor and tries to open the door to 
+where Wendy and Kairi were last heard from.
+
+Peter: Wendy, are you in there?
+
+The door is locked and there's no answer. Sora's group enters the cabin.
+
+Sora: Riku, wait!
+
+Riku disappeared with Kairi. Suddenly, Sora's group encountered 
+Antisora. After Sora's group defeats Antisora, they received Raven's 
+Claw accessory. Then, they open the hatch to the room where Wendy was.
+
+Peter: Wendy!
+
+Wendy's unconscious.
+
+Peter: Come on, Tink! Not now! Well, This is as far as I can go. I've 
+gotta help Wendy.
+
+Peter Pan left with Wendy. Sora's group goes outside of the ship. Out 
+there...
+
+Captain Hook: Quite a codfish, that Riku-running off with that girl 
+without even saying goodbye.
+
+Sora: Run off where? Tell me, where did he go?
+
+Captain Hook: To the ruins of Hollow Bastion, where Maleficent resides. 
+But you won't be getting there.
+
+Captain Hook shows a lantern with Tinker Bell imprisoned in it. Sora's 
+group was shocked.
+
+Captain Hook: Unless you intend to leave your little pixie friend 
+behind?
+
+Sora: No...
+
+Sora's Keyblade disappears. Sora's group was surrounded by the 
+Heartless.
+
+Captain Hook: Hand over the Keyblade and I'll spare your lives. Be glad 
+I'm merciful, unlike the Heartless. So, which will it be? The Keyblade, 
+or the plank?
+
+Suddenly, Captain Hook heard a clock ticking noise and saw the 
+Crocodile.
+
+Captain Hook: It's him! The crocodile that took me hand! Oh, Smee! He's 
+after me other hand! I can't stay here! (to the Crocodile) Go away! Oh, 
+I can't stand the sight of him! Smee, you take care of them!
+
+Sora is going to jump off from the plank to the Crocodile's mouth. But 
+then, Sora heard Peter Pan's voice.
+
+Peter: Fly, Sora! Just believe, and you can do it!
+
+Sora jumped off and before the Crocodile could grab Sora, Sora jumped 
+and started flying. Then, Peter Pan dashes in midair to grab the lantern 
+with Tinker Bell and releases her.
+
+Sora: Thanks, Peter.
+
+Peter: Hey, don't mention it. You didn't think I'd leave you and Tink 
+behind, did you?
+
+Mr. Smee ran away. Sora's Cure spell got upgraded to Cura.
+
+Sora: You're all going down!
+
+Sora's group fights and defeated the Heartless. After that, Peter Pan 
+knocks on the door to the cabin where Captain Hook is in. Peter Pan 
+looks like he wants to play a trick on him.
+
+Captain Hook: Is that you, Smee? Did you finish them off?
+
+Peter: (talks like Mr. Smee) Aye, Captain. They walked the plank, every 
+last one of them.
+
+Captain Hook came out and Peter Pan sneaks up and pokes Captain Hook in 
+the back with his dagger. Captain Hook got furious.
+
+Captain Hook: P-Peter Pa-blast you!
+
+Peter: Ready to make a splash, you codfish? Now it's your turn to walk 
+the plank!
+
+Sora's group fights Captain Hook. After Sora's group defeats Captain 
+Hook, Captain Hook got thrown into the water and the Crocodile chase 
+after Captain Hook in a fast motion. Sora learned Ars Arcanum and 
+received Ansem's Report 9. Later, Sora is thinking of something while 
+everyone else is concerned about him.
+
+Goofy: Uh, Kairi couldn't wake up, so maybe she's really lost her-
+
+Donald: Shh!
+
+Peter: Sora.
+
+Sora: I still can't believe it. I really flew. Wait 'til I tell Kairi. I 
+wonder if she'll believe me. Probably not.
+
+Peter Pan: You can bring her to Neverland sometime. Then she can try it 
+herself.
+
+Sora: If you believe, you can do anything, right? I'll find Kairi. I 
+know I will. There's so much I want to tell her-about flying, the 
+pirates, and everything else that's happened.
+
+Then, Tinker Bell arrived to talk with Peter Pan.
+
+Peter: What's that, Tink? What about the clock tower? You say there's 
+something there?
+
+Later, Sora's group flew to the clock tower and there, Sora's group flew 
+to the clock that is not 12:00. Sora strikes the minute hand to make it 
+12:00 and then, a Keyhole appeared. Sora uses his Keyblade to shoot a 
+beam at the Keyhole and this world is sealed from the Heartless forever. 
+Sora's group received Navi-G Piece. The screen switches to Sora's 
+memory.
+
+Riku: Hey, Sora.
+
+Sora: Hm?
+
+Riku: When we grow up, let's get off this island. We'll go on real 
+adventures, not this kid stuff!
+
+Sora: Sure. But isn't there anything fun to do now? Hey, you know the 
+girl at the mayor's house? She arrived on the night of the meteor 
+shower!
+
+Riku saw a keyhole at the wooden door. Then, the screen switches to the 
+area where Riku is kneeling trying to catch his breath and Maleficent is 
+standing.
+
+Maleficent: It was reckless to bring her here without at least using a 
+vessel. Remember, relying too heavily on the dark powers could cost you 
+your heart.
+
+A noise was heard form behind.
+
+Maleficent: A castaway. Though his world perished, his heart did not. 
+When we took the princess from his castle, he apparently followed her 
+here through sheer force of will. But fear not. No harm will come to 
+you. He is no match for your power.
+
+Riku: My power?
+
+Maleficent: Yes, the untapped power that lies within you. Now, child, 
+it's time you awakened that power and realized your full potential.
+
+Riku gains better power from Maleficent. The screen switches back to the 
+clock tower.
+
+Wendy: Peter, are you really going back to Neverland?
+
+Peter: Afraid so. But we can see each other any time. As long as you 
+don't forget about Neverland, that is.
+
+Peter Pan and Wendy hold each other's hands. Donald Duck laughed and 
+Tinker Bell is mad.
+
+Peter: Oh, boy. She's gettin' steamed again. Do me a favor. Look after 
+her for me, will ya?
+
+Sora: What?
+
+Sora learned to summon Tinker Bell. Sora also received Fairy Harp key 
+chain and learned the Glide ability. Sora's group boards the Gummi Ship.
+
+Donald: Well, we found the Navi-Gummi piece. Let's go back to town.
+
+Sora: Cid'll install it on the ship once we bring it to him.
+
+Sora's group returned to Traverse Town. In there, Sora's group talks to 
+Cid.
+
+Cid: Looks like you found the other one. Let me see it.
+
+Sora's group showed the Navi-G Piece to Cid.
+
+Cid: Okay, wait here. I'll get it installed right now.
+
+Cid leaves to install the Navi-G Pieces for the Gummi Ship. Later...
+
+Donald: Sora!
+
+Goofy: Now, just remember what Donald said to ya: no frowning, no sad 
+faces.
+
+Sora: How can you be so cheerful? There's still no sign of your king. 
+Aren't you worried?
+
+Donald: Aw, phooey.
+
+Goofy: The king told us to go out and find the key bearer, and we found 
+you. So as long as we stick together, it'll all work out okay. Ya just 
+gotta believe in yourself, that's all.
+
+Sora: Just believe...
+
+Sora closes his eyes and wonders.
+
+Voice of Kairi: I believe in you.
+
+A bright light appeared on the screen and Sora is taken to a dream world 
+in a library where young Kairi and her grandmother are at.
+
+Sora: Where am I?
+
+Kairi's Grandmother: (to young Kairi) Long ago, people lived in peace, 
+bathed in the warmth of light. Everyone loved the light. Then people 
+began to fight over it. They wanted to keep it for themselves. And 
+darkness was born in their hearts. The darkness spread, swallowing the 
+light and many people's hearts. It covered everything, and the world 
+disappeared. But small fragments of light survived...in the hearts of 
+children. With these fragments of light, children rebuilt the lost 
+world. It's the world we live in now. But the true light sleeps, deep 
+within the darkness. That's why the worlds are still scattered, divided 
+from each other. But someday, a door to the innermost darkness will 
+open. And the true light will return. So, listen, child. Even in the 
+deepest darkness, there will always be a light to guide you. Believe in 
+the light, and the darkness will never defeat you. Your heart will shine 
+with its power and push the darkness away. Do you understand, Kairi?
+
+Sora: Kairi!?
+
+Sora tried to get young Kairi's attention, but Kairi did not pay any 
+attention to Sora. Then a bright light on the screen appeared and Sora 
+woke up.
+
+Sora: Huh?
+
+Goofy: What's the matter?
+
+Sora: Um, nothing. Kairi... Did you call me?
+
+Later, Cid came back.
+
+Cid: I installed that navigation gummi. But, ya know? That place is 
+crawling with Heartless. Don't say I didn't warn you.
+
+Sora: ?
+
+Cid: Here, take this along.
+
+Sora received Transform-G. Before Sora's group boards the Gummi Ship, 
+Sora's group paid a visit to the Magician's Study and Sora opened the 
+book and appeared in 100 Acre Wood. Sora enters the empty meadow. In 
+there, Winnie the Pooh is sitting on a log by himself touching his own 
+head as if thinking.
+
+Pooh: Think, think. Think, think.
+
+Sora talks to Winnie the Pooh.
+
+Sora: Hi there. What's wrong?
+
+Pooh: Nothing. Just thinking.
+
+Sora: Oh.
+
+Pooh: I was thinking of how to say goodbye to Pooh.
+
+Sora: Pooh?
+
+Pooh: Yes?
+
+Sora: Wait a second. You're Pooh?
+
+Sora takes a seat next to Winnie the Pooh.
+
+Pooh: Yes, I'm Winnie the Pooh. Pooh for short. Who are you?
+
+Sora: I'm Sora.
+
+Pooh: Oh. Hello, Sora. Have you come to say goodbye to Pooh, too?
+
+Sora: Well, no. Why would I do that? We've only just met.
+
+Pooh: Because everyone's gone away.
+
+Sora: What do you mean?
+
+Pooh: Well, we all lived here in the Hundred Acre Wood. And we'd take 
+walks together, or play Pooh sticks... And every day, I'd eat some honey. 
+Just one small smackeral would taste very good right now. But now 
+everyone's gone. All my friends, and my favorite Hunny Tree too. 
+Everyone must've gone away while I was napping, I think... (gets off the 
+log) So, who knows? Maybe I shall end up going away somewhere as well. 
+But I wonder, how do I say goodbye to myself? Think, think, think.
+
+Sora said nothing.
+
+Pooh: Oh, my tumbly is getting rumbly.
+
+Pooh left. Sora exits the area and proceeds to Winnie the Pooh's house. 
+Inside, Winnie the Pooh is snacking on a jar of honey.
+
+Pooh: Oh, bother. There's no more honey left. If only the Hunny Tree 
+would visit... Then I could eat my fill.
+
+Winnie the Pooh left the scene. Sora goes outside and saw Owl.
+
+Owl: Let me guess: You'd like to know what happens next. Unfortunately, 
+some of the pages are missing, so I can't tell you yet. The pages are 
+scattered over many worlds. Would you find them for us?
+
+Sora exits the area and proceeds to the tall tree. In there...
+
+Piglet: Hello, i-is anyone there?
+
+Piglet came out of the log.
+
+Piglet: Wh-Wh-What am I to do? I'm all alone. Pooh? Pooh? Where are you? 
+It's me, Piglet.
+
+Suddenly, Sora arrived and Piglet turned around. Piglet gasp and ran to 
+his hiding spot. Sora found Piglet shortly.
+
+Piglet: Oh dear! I was j-just... N-Never mind. I'm sorry!
+
+Sora: (kneels to Piglet's level) Don't be scared. You're looking for 
+Pooh, right?
+
+Piglet: You know Pooh? Oh, y-you see, I-I have something for him... I have 
+to take it to Pooh right away!
+
+Suddenly, Piglet can hear Winnie the Pooh coming.
+
+Piglet: Oh, Pooh!
+
+Pooh: (to himself) Oh, I believe I smell a delicious something-a 
+something like honey!
+
+Piglet: Pooh!
+
+Pooh: Hello, Piglet. How have you been?
+
+Piglet: Oh, I-I'm so glad to see you. I though you'd gone away. I 
+brought wh-what you asked for.
+
+Piglet giggles a little and made a floating balloon for Winnie the Pooh.
+
+Pooh: Thank you, Piglet. Now I can finally have some honey.
+
+Piglet: Really? B-But how?
+
+Pooh: I shall hold on to the balloon, and fly like a bee up the Hunny 
+Tree, see.
+
+Piglet: But, if you take their honey, won't the bees be angry?
+
+Pooh: Hmm... Oh!
+
+Sora talks to Winnie the Pooh.
+
+Pooh: If you could only chase away those bees, I'm quite certain I could 
+get a small morsel of honey. Would you help me get some honey?
+
+Sora: (wondering) Should I help Pooh get some honey? (Sure!)
+
+Owl appeared.
+
+Pooh: Oh. Hello there, Owl.
+
+Owl: Good day, Pooh. What are you doing? Using a balloon to get some 
+honey? Splendid idea! Allow to offer a few pointers. Ahem! Now, Pooh can 
+get honey by floating up this tree with his balloon. The honey is inside 
+the tree hollows, not the beehives you see here. There's quite a lot of 
+honey in these holes. If Pooh gets too close, the bees will come out to 
+protect their honey. If they get to Pooh, they'll pop his balloon. Lock 
+onto the bees and swat them away. The more time Pooh has at each hollow, 
+the more honey he can eat. There's more honey higher up, too. If the 
+jumping from branch to branch proves difficult, try the Rush command. 
+Rush can help you catch up to Pooh quickly. But it isn't fully reliable. 
+Good luck.
+
+Sora begins the event. After the event...
+
+Pooh: That was yummy in my tummy, but there's room for a bit more.
+
+Sora exits the area and proceeds to the vegetable fields. In there, Sora 
+saw Piglet and Winnie the Pooh there near Rabbit's house.
+
+Piglet: Look, Rabbit's house c-came back! But it looks like Rabbit isn't 
+home. Pooh's been calling and calling, but the house says no one's 
+there.
+
+Sora goes inside Rabbit's house. Outside with Piglet and Winnie the 
+Pooh...
+
+Pooh: Who is this person named Nobody?
+
+Winnie the Pooh tries to go through the tree hole.
+
+Pooh: Nobody, have you seen Rabbit? No! No Rabbit here! There's no one 
+here!
+
+Inside...
+
+Pooh: Hello, Rabbit!
+
+Rabbit: Why, P-Pooh. What a pleasant surprise... Nice to see you, too, 
+Piglet. And...
+
+Rabbit suddenly saw Sora.
+
+Rabbit: Is this a new friend? P-Pooh, I'm sorry, but... I'm all out of 
+honey at the moment.
+
+Sora saw a jar of honey on the rafters.
+
+Rabbit: H-Honey? Now, how did that get up there? (to Winnie the Pooh) 
+Would you like some, Pooh? Don't feel you have to, of course.
+
+Pooh: Oh, thank you, Rabbit. I would like just a small smackeral. I'm 
+quite hungry.
+
+Winnie the Pooh begins eating the jar of honey.
+
+Rabbit: Um, Pooh Bear... You're not eating the whole pot, are you? Once 
+you start, there's no stopping you, is there...
+
+Sora went outside of Rabbit's house. And then...
+
+Piglet: H-Help! Please help Pooh!
+
+Back inside, Sora saw Winnie the Pooh stuck to the tree hole. Sora talks 
+to Winnie the Pooh who is stuck.
+
+Pooh: Oh, help and bother. I'm stuck again. I came in through this hole 
+so it must have shrunk.
+
+Sora goes outside and talks to Winnie the Pooh from the outside.
+
+Pooh: Oh, how will I eat honey if I'm stuck here? When it's lunch time, 
+perhaps you could bring me a honey jar.
+
+Rabbit: No honey 'til you're unstuck!
+
+Rabbit arrived.
+
+Rabbit: If Pooh doesn't slim down, my house will stay plugged up 
+forever! If only there were something we could do... Wait, I know! A bit 
+of carrot top juice will do the trick! I have a carrot patch on the 
+other side of the stream. Carrot top juice is just the ticket to 
+slimming down a Pooh! (heard someone coming) Oh, no!
+
+Tigger came bouncing forward and bounce-landed on Sora, making him fall 
+to the ground.
+
+Tigger: Hey there! Name's Tigger! T-I-double-guh-RR. That spells Tigger! 
+Well, now! I don't think I've ever seen you before!
+
+Pooh: Hello, Tigger. You've just bounced my new friend Sora.
+
+Tigger: Hey, Pooh! Say, you're lookin' mighty uncomfy today. Is that 
+some new exercise? Why, bouncin' around is a lot more fun.
+
+Sora gets up.
+
+Sora: Wh-Why do you bounce around so much, Tigger?
+
+Tigger: Why? 'Cause bouncin' is what Tiggers do best! Speaking of which, 
+my bouncin' spot has gone and disappeared! So for now, this'll be my new 
+bouncin' ground.
+
+Tigger bounced away. Sora talks to Rabbit.
+
+Rabbit: Tigger's bouncing will ruin my vegetables!
+
+Tigger: And if we don't give Pooh some carrot top juice, he'll be stuck 
+forever. Please help me! Keep Tigger away from my carrots!
+
+Owl: This is quite a fix. But I have just the solution. Pay attention, 
+now.
+
+Owl appeared.
+
+Owl: Sora, you'll have to protect this carrot patch. If Tigger bounces 
+on a carrot twice, it'll be buried. (stepped on one) Once... (stepped on 
+it again) Twice! Just like that. Protect the carrots from Tigger's 
+bounces and you'll receive points. How, you ask? It's elementary! Simply 
+get to the carrots before Tigger lands on them. There are fifteen 
+carrots here. Your score depends on how many you save, and how many 
+times you block Tigger. Oh, and one more thing. The Rush command is the 
+key to a high score. Select Rush while near a carrot that isn't buried 
+yet. You'll dash to the target area before Tigger lands. Well, good 
+luck!
+
+The event begins. After the event...
+
+Tigger: Say, you kept up pretty good there, Sora, especially for a non-
+Tigger! Let's have another go.
+
+Tigger bounced away and left the scene. Later...
+
+Rabbit: Thank you so much. Now I'd better make that carrot top juice. 
+I'll get the carrots, so please wait inside the house.
+
+Inside Rabbit's house...
+
+Rabbit: Oh, what a day! I gave Pooh the carrot top juice. All we have to 
+do now is push him out. Just a little push should do.
+
+Sora shoved Winnie the Pooh really hard and Winnie the Pooh popped out 
+of the tree hole and suddenly landed into another jar of honey with his 
+head. Rabbit was spooked.
+
+Rabbit: First my vegetable patch and now this...
+
+Winnie the Pooh has a jar of over his head.
+
+Pooh: Oh, bother. Where am I? It's ever so dark in here. Well, it isn't 
+so bad, I suppose. There is plenty of honey.
+
+Sora exits the area and proceeds to the tree with a swing. In there...
+
+Piglet: Look, Pooh. Something is floating this way.
+
+Pooh: I think you're right, Piglet. What could it be?
+
+Winnie the Pooh and Piglet saw Eeyore.
+
+Pooh: Why, it looks like Eeyore! Hello, Eeyore, if it is you.
+
+Eeyore: Hello, Pooh. Yes, it's me. Could you pull me out? That is, if 
+it's not too much trouble. Of course, you don't have to if you don't 
+want to.
+
+Sora dived into the river and pulled out Eeyore. Later...
+
+Eeyore: Thank you, Pooh. Thank you, other you. You know, floating along 
+out there, it seemed like something was missing... And something's still 
+missing.
+
+Piglet: Why, Eeyore's tail is gone! Is that what's missing?
+
+Eeyore: Let's see... Yep, lost it again. Wonder where it went this time. 
+It's not much of a tail, though I'm sort of attached to it. But I don't 
+know why anybody'd look for it. Probably won't find it anyway...
+
+Sora: Sora, why don't we all look for Eeyore's tail?
+
+Owl: Lost something?
+
+Owl appeared.
+
+Owl: Searching from a high place is the quickest way to find it!
+
+Sora: Owl, can you fly up high and help us find Eeyore's tail?
+
+Owl: Sorry, but my eyes aren't what they used to be. Too much reading, 
+you know. But I can offer good advice! Of course, you don't have to if 
+you don't want to. See that swing up there? Take Pooh there. You're a 
+bit too big for the swing, but Pooh should fit nicely. I'll tell you 
+more when you get there.
+
+Sora takes Winnie the Pooh to the swing. After that...
+
+Owl: Here's what to do. First get ready to push.
+
+Sora: How?
+
+Owl: (showing Sora what to do) Like this.
+
+Sora: Like this?
+
+Owl: Then press R1 to give Pooh a push.
+
+Sora: How's this?
+
+Owl: Not bad, not bad! Here's the next step. Press R1 before he swings 
+back to the bottom. If you time it right, Pooh will swing higher and 
+higher. Try it! I'll help you with the timing. Press R1 when I spread my 
+wings. Push too soon, Pooh won't go any higher. Push too late, he'll go 
+too high.
+
+Sora begins the event. Then, Winnie the Pooh goes high in the air and 
+lands on Eeyore's makeshift house. After that...
+
+Eeyore: Hm? That looks familiar...
+
+Later...
+
+Pooh: How's it looking?
+
+Sora: There we go.
+
+Eeyore: It's not much of a tail, but it's mine. Thanks, everyone.
+
+Pooh: I wish we could put the Hundred Acre Wood back the way it was, 
+too!
+
+Sora exits the area and proceeds to the tree stumps. In there, Sora 
+talks to Tigger who is bouncing with Roo.
+
+Tigger: This here is my bouncin' spot! We can bounce around here all 
+day!
+
+Roo: Nothing beats bouncin'!
+
+Tigger: You wanna bounce, too, Sora? It's lotsa fun!
+
+Sora: (wondering) Lotsa fun! (Okay!)
+
+Roo: To bounce with the finest, you'll need some pointers from the 
+finest.
+
+Owl appeared.
+
+Roo: But, Owl, you don't bounce around like we do!
+
+Owl: I'm afraid you're right. I can't master everything, I suppose.
+
+Tigger: (to Sora) Bounce this way, please!
+
+Sora talks to Tigger and Sora begins the event.
+
+Tigger: Here's a little warm-up.
+
+Sora watches the first bouncing from stump to stump with Tigger and Roo 
+and then Sora does that. After that...
+
+Tigger: Now it gets tricky!
+
+Sora watches the second one and he does what Tigger and Roo did. After 
+that...
+
+Tigger: You're doin' fantastical! This'll be the last one.
+
+Sora watches the last one and he does what Tigger and Roo did. After 
+that...
+
+Tigger: You've gotten mighty good at bouncin', Sora! Right, Roo?
+
+Sora talks to Roo.
+
+Roo: Hey, Tigger! I think he's ready for the big one!
+
+Tigger: Well, there's only one way to find out!
+
+Sora begins the giant pot event where he has to break it. After doing 
+so, Sora exits the area and proceeds to the winding muddy path. In 
+there, Sora talks to Pooh.
+
+Sora: What are you doing, Pooh?
+
+Pooh: Shh. Quiet, or they'll get away!
+
+Sora: Who?
+
+Pooh: The people who took everyone away. See their footprints? We were 
+all sticking together to make sure no one got lost again. But then, I 
+saw some footprints that needed following. So I did. Suddenly, everyone 
+was gone. Bad people must have taken them away!
+
+Sora: Actually, Pooh, I think those footprints are... Um... anyway, I'll 
+help you look for your friends.
+
+Sora saw Eeyore in the big bush.
+
+Sora: Eeyore?
+
+Eeyore: Hello.
+
+Sora: What are you doing?
+
+Eeyore: Lookin' for sticks to build my house...again.
+
+Sora: Sticks for your house? This place already feels like a house... 
+Seems like a great spot to gather everyone once we find them.
+
+The event begins. After that...
+
+Rabbit: Everyone's here!
+
+Later, everyone gathered at the night of the hill.
+
+Piglet: I'm so glad we're all together again. I didn't know what to do 
+when I was all alone.
+
+Tigger: Aw, Piglet, you gotta be brave.
+
+Piglet: You weren't lonely at all?
+
+Tigger: Lonely? Are you kiddin'? I'm a Tigger! The most wonderful thing 
+about Tiggers is I'm the only one. But I do admit, friends are awfully 
+fun, too!
+
+Pooh: Think, think. Think.
+
+Sora: Hey, Pooh, what are you thinking about now?
+
+Pooh: Oh, well, I'm just thinking about what to think about.
+
+Sora: (giggles) Well, I'm off.
+
+Piglet: Sora, where are you going?
+
+Sora: I'm gonna go look for my friends. They're waiting for me.
+
+Tigger: Bounce on back again!
+
+Piglet: I hope you find your friends!
+
+Everybody waved as if saying goodbye to Sora.
+
+Pooh: Sora, don't forget... We shall always be here. If you'd like to 
+visit again, that is.
+
+Sora disappears and the book closes with the keyhole sealed. After that, 
+Sora's group boards the Gummi Ship.
+
+Donald: All right! Let's head on to the new world!
+
+Goofy: Hold on, Donald. We don't know what's out there. Why don't we 
+revisit other worlds first? I'm sure we'll find some new items.
+
+After Sora's group done that, they take the Gummi Ship and disembarks at 
+Hollow Bastion. In there...
+
+Goofy: Gawrsh, look at that!
+
+Sora: I know this place...
+
+Goofy: Hmm, that's strange.
+
+Sora: I wonder why... I feel this warmth inside, right here.
+
+Donald: Aw. you're just hungry.
+
+Sora: Hey, I'm serious!
+
+Sora's group heard a roar from a distance away and the camera views the 
+area of Hollow Bastion.
+
+Sora: Let's go!
+
+Sora's group approaches closer. Then, the screen switches to Riku and 
+the Beast.
+
+Riku: No vessel, no help from the Heartless... So tell me, how'd you get 
+here?
+
+Beast: I simply believed. Nothing more to it. When our world fell into 
+darkness, Belle was taken from me. I vowed I would find her again no 
+matter what the cost. I believed I would find her. So, here I am. She 
+must be here. I will have her back!
+
+Riku: Take her if you can.
+
+The Beast tried to attack, but Riku evaded and counterattacked the 
+Beast, seriously injuring him. Later, Sora's group arrived at the scene.
+
+Sora: Stop!
+
+Riku: So, you finally made it. About time. I've been waiting for you. 
+We've always been rivals, haven't we? You've always pushed me as I've 
+always pushed you.
+
+Sora: Riku...
+
+Riku: But it all ends here. There can't be two Keyblade masters.
+
+Sora: What are you talking about?
+
+Riku: Let the Keyblade choose...its true master.
+
+Sora's Keyblade disappeared form his hand and Riku took possession of 
+it.
+
+Donald: Huh?
+
+Goofy: What!?
+
+Riku: Maleficent was right. You don't have what it takes to save Kairi. 
+It's up to me. Only the Keyblade master can open the secret door...and 
+change the world.
+
+Sora: But that's impossible. How did this happen? I'm the one who fought 
+my way here with the Keyblade!
+
+Riku: You were just the delivery boy. Sorry, your part's over now. Here, 
+go play hero with this.
+
+Riku tosses a Wooden Sword to the ground next to Sora and left the 
+scene. Sora kneels to the ground in disappointment.
+
+Donald: Goofy. Let's go. We have to remember our mission.
+
+Goofy: Oh! Well, I know the king told us to follow the key and all... 
+But...
+
+Donald: Sora, sorry.
+
+Donald Duck and Goofy left the scene. The Beast tried to move but is 
+still hurt.
+
+Sora: Hey, don't move. You're hurt.
+
+Beast: Why... Why did you...you come here? I came to fight for Belle. 
+And though I am on my own, I will fight. I won't leave without her. 
+That's why I'm here.
+
+Sora picks up the Wooden Sword, as it is better than having no weapon.
+
+Sora: Me too. I'm not gonna give up now. I came here to find someone 
+very important to me.
+
+Sora and the Beast go through a maze to turn the power on. Then, Sora 
+and the Beast proceed to the Castle Gates. Meanwhile, in the chamber 
+with Belle, Jasmine, Aurora, Snow White, Alice, and Cinderella captured 
+and unconscious, Maleficent appeared at the scene and Kairi is laying 
+down in a purple capsule shaped barrier.
+
+Maleficent: O purest of hearts! Reveal to me the Keyhole!
+
+The six female characters' hearts emit beams at the Keyhole. The screen 
+switches to Sora and the Beast inside the Entrance Hall.
+
+Beast: Be on your guard. They're close, I can feel it. Are you ready for 
+them?
+
+The Beast suddenly senses Belle.
+
+Beast: Belle?
+
+Belle turned into a Shadow Heartless and it is not Belle. The Beast 
+became furious and went after the Shadow Heartless. Later...
+
+Riku: Quit while you can.
+
+Riku with Donald Duck and Goofy appeared at the scene.
+
+Sora: No. Not without Kairi.
+
+Riku transformed into his powerful form.
+
+Riku: The darkness will destroy you.
+
+Sora: You're wrong, Riku. The darkness may destroy my body, but it can't 
+touch my heart. My heart will stay with my friends. It'll never die!
+
+Riku: Really... Well, we'll just see about that!
+
+Sora is immobilized and Riku shot an orb of darkness from the palm of 
+his hand. Before the shot could hit Sora, a white screen appeared and 
+Goofy got close to Sora and blocked the orb with his shield.
+
+Goofy: Sora ain't gonna go anywhere!
+
+Riku: You'd betray your king?
+
+Goofy: Not on your life! But I'm not gonna betray Sora, either, 'cause 
+he's become one of my best buddies after all we've been through 
+together! See ya later, Donald. Could ya tell the king I'm really sorry?
+
+Donald: Hold on, Goofy! We'll tell him together.
+
+Donald came to Sora and Goofy.
+
+Donald: Well, you know... All for one and one for all.
+
+Goofy: I guess you're stuck with us, Sora.
+
+Sora: (looking down in disappointment) Thanks a lot...Donald, Goofy.
+
+Riku: How will you fight without a weapon?
+
+Sora: I know now I don't need the Keyblade. I've got a better weapon. My 
+heart.
+
+Riku: Your heart? What good will that weak little thing do for you?
+
+Sora: Although my heart may be weak, it's not alone. It's grown with 
+each new experience, and it's found a home with all the friends I've 
+made. I've become a part of their heart just as they've become a part of 
+mine. And if they think of me now and then...if they don't forget 
+me...then our hearts will be one. (readying his Wooden Sword) I don't 
+need a weapon. My friends are my power!
+
+The Keyblade Riku was holding disappeared and it reappeared this time in 
+Sora's possession. Sora's group fights Riku. After Sora's group wins the 
+battle, Riku reverted back to normal and ran away. The Beast came back.
+
+Beast: So, your heart won this battle.
+
+Sora nods. Sora's group learned White Trinity. Then, Sora's group finds 
+the Emblem Pieces to open the door with a heart crest. The screen 
+switches to Riku.
+
+Riku: Why? It was mine. 
+
+While Riku is running...
+
+Hooded Man: Know this.
+
+The hooded man appeared.
+
+Hooded Man: The heart that is strong and true shall win the Keyblade.
+
+Riku: What? You're saying my heart's weaker than his?
+
+Hooded Man: For that instant, it was. However, you can become stronger. 
+You showed no fear in stepping through the door to darkness. It held no 
+terror for you. Plunger deeper into the darkness, and your heart will 
+grow even stronger.
+
+Riku: What should I do?
+
+Hooded Man: It's really quite simple. Open yourself to the darkness. 
+That is all. Let your heart, your being, become darkness itself.
+
+Riku gained power from the hooded man. The screen switches to Sora's 
+group. They make their long way to the Castle Chapel. Meanwhile in the 
+room with Riku and Maleficent with the unconscious Kairi...
+
+Riku: (talking with evil sounding voice) So, I see the path has emerged 
+at last.
+
+Maleficent: Yes. The Keyhole to the darkness.
+
+Riku: Unlock it and the Heartless will overrun this world.
+
+Maleficent: What do I care? The darkness holds no power over me. Rather, 
+I will use its power to rule all worlds.
+
+Riku: Such confidence.
+
+A dark Keyblade appeared in Riku's hand.
+
+Maleficent: Oh! Impossible! The princesses of heart are all here! 
+(looking at Kairi) It must be her.
+
+Riku: Without her heart, she will never be able to release her power.
+
+Maleficent: The king's fools are here. I'll deal with them myself. You 
+stay here and guard the princesses.
+
+Sora's group is now inside the Castle Chapel. There, Maleficent waits.
+
+Maleficent: I'm afraid you're too late. Any moment now, the final 
+Keyhole will be unsealed. This world will be plunged into darkness. It 
+is unstoppable.
+
+Sora: (readying his Keyblade) We'll stop it! After coming this far, 
+there's no way we're gonna let that happen!
+
+Maleficent: You poor, simple fools. You think you can defeat me? Me, the 
+mistress of all evil?
+
+Sora's group fights Maleficent. After the fight, Maleficent still alive 
+gets away in a portal. Donald Duck learned Cheer and Sora's group 
+received Ansem's Report 5. Sora's group goes through a dark portal. In 
+that area, Maleficent walks forward while seriously wounded. Then, Riku 
+appeared from behind with his Keyblade.
+
+Riku: Do you need some help?
+
+Sora: Riku!
+
+Sora's group arrived.
+
+Donald: Is that-
+
+Riku: Yes. A Keyblade. But unlike yours, this Keyblade holds the power 
+to unlock people's hearts. Allow me to demonstrate... (quickly thrust 
+the Keyblade to Maleficent's heart) Behold!
+
+Maleficent Wha-
+
+Riku: Now, open your heart, surrender it to the darkness! Become 
+darkness itself!
+
+Riku pulled the Keyblade out of Maleficent's heart and disappeared. 
+Maleficent gains power.
+
+Maleficent: This is it! This power! Darkness... The true darkness! 
+
+Maleficent turned into a Dragon. Sora's group fights the Dragon. After 
+Sora's group defeats the Dragon, the branches burned in green flames and 
+the Dragon melted and burned to ashes. Riku came back.
+
+Riku: How ironic. She was just another puppet after all.
+
+Donald: What?
+
+Riku: The Heartless were using Maleficent from the beginning. She failed 
+to notice the darkness in her heart eating away at her. (stepping on the 
+Dragon's corpse and it disappears) A fitting end for such a fool.
+
+Riku disappeared. Sora's group received Fireglow. Sora's group proceeds 
+to Grand Hall. In there, Sora's group enters the area with the Keyhole, 
+but a barrier prevents Goofy from entering. Then, Sora saw Kairi.
+
+Sora: Kairi!
+
+Sora approaches closer.
+
+Sora: Kairi! Kairi! Open your eyes!
+
+Riku: It's no use. That girl has lost her heart. She cannot wake up.
+
+Sora: What? You... You're not Riku.
+
+Riku: The Keyhole cannot be completed so as long as the last princess of 
+heart still sleeps.
+
+Sora: The princess...? Kairi's a princess?
+
+Riku floats in midair.
+
+Riku: Yes, and without her power, the Keyhole will remain incomplete. It 
+is time she awakened.
+
+Sora: Whoever you are, let Riku go! Give him back his heart!
+
+Riku: But first, you must give the princess back her heart.
+
+Sora felt something strange in his heart and kneels while holding his 
+heart.
+
+Donald: Sora!
+
+Sora: What's-
+
+Riku: Don't you see yet? The princess's heart is responding. It has been 
+there all along. Kairi's heart rests within you!
+
+Sora: Kairi... Kairi's inside me?
+
+Riku: I know all that there is to know.
+
+Sora: Tell me. Who are you?
+
+Riku: It is I, Ansem, the seeker of darkness.
+
+Donald Duck tried to charge at Riku, but Riku shoves Donald Duck through 
+the barrier.
+
+Riku: So, I shall release you now, Princess. Complete the Keyhole with 
+your power. Open the door, lead me into everlasting darkness!
+
+Riku is going to attack Sora, but then...
+
+Voice of Kairi: Sora!
+
+Sora woke up and deflected the attack from Riku with his Keyblade.
+
+Sora: (angry) Forget it! There's no way you're taking Kairi's heart!
+
+Sora fights Riku. After Sora defeats Riku, Sora learns the Ragnarok 
+ability. Riku drops his Keyblade and disappears.
+
+Sora: Riku!
+
+Donald: Sora! Sora, look!
+
+Goofy: The... The Keyhole!
+
+Sora tried to use the Keyblade on the Keyhole, but nothing happened.
+
+Goofy: It won't work! The Keyhole's not finished yet!
+
+Sora: What can we do?
+
+Goofy: Maybe we've gotta go wake Kairi up.
+
+Sora: I think you're right. If we can free her heart... But... But how?
+
+Sora saw the dark Keyblade.
+
+Sora: A Keyblade that unlocks people's hearts... I wonder.
+
+Goofy: Sora?
+
+Sora approaches the dark Keyblade.
+
+Goofy: Sora, hold on!
+
+Donald: No, wait!
+
+Sora smiles at Donald Duck and Goofy and thrust the dark Keyblade into 
+his heart. Upon doing this, the hearts returned to the six female Disney 
+characters and Kairi as well. Sora lights up as he falls slowly.
+
+Donald: Sora... Sora!
+
+Kairi got up.
+
+Kairi: Sora!
+
+Kairi tried to catch Sora before he could hit the ground, but he 
+disappeared.
+
+Donald: Sora! Come back, Sora!
+
+The screen switches to Sora in the darkness.
+
+Sora: What's... What's happening to me? Falling...falling...into 
+darkness.
+
+The screen switches to Goofy, Donald Duck, and Kairi who are extremely 
+concerned about the whereabouts of Sora.
+
+Kairi: Sora, are you really- No. It can't be! I won't let him go!
+
+Suddenly, someone appeared, it is Ansem. He was the hooded man all that 
+time.
+
+Ansem: So, you have awakened at last, Princess. The Keyhole is now 
+complete. You have served your purpose. But now it's over.
+
+Donald Duck and Goofy readies their weapons.
+
+Donald: Don't make another move!
+
+Goofy: Do you think we can stop him all by ourselves?
+
+Donald: I don't know!
+
+Ansem steps forward, but it moving uncontrollably.
+
+Ansem: Impossible...
+
+A image of Riku appeared.
+
+Riku: No. You won't use me for this!
+
+Kairi: Riku!
+
+Riku: You've got to run! The Heartless are coming!
+
+Suddenly, the Shadow Heartless appeared. Kairi nods and Kairi, Donald 
+Duck, and Goofy make a run for it. Later, a Shadow was looking at Goofy, 
+Donald Duck, and Kairi.
+
+Goofy: What about the Keyhole?
+
+Donald: Let's just get out of here!
+
+The Shadow follows Goofy, Donald Duck, and Kairi to the Entrance Hall. 
+In there...
+
+Goofy: Kairi, hurry!
+
+Kairi: I can't leave them behind!
+
+Donald: We can't stay here!
+
+Goofy: A Heartless is after us!
+
+Donald: I'll take care of him!
+
+The Shadow approaches closer. Donald tried to attack the Shadow.
+
+Donald: Confounded Heartless! Get lost, will ya?
+
+The Shadow responds like Sora.
+
+Kairi: Sora? Is that you?
+
+Goofy: Uh-oh!
+
+Goofy, Donald Duck, Kairi, and the Shadow were surrounded by the other 
+Shadow Heartless. Goofy and Donald Duck take their battle positions.
+
+Kairi: This time, I'll protect you.
+
+The other Shadows get near Kairi and the Shadow she is holding on to.
+
+Goofy: Kairi!
+
+The other Shadows were eliminated and Sora reverted from a Shadow to 
+normal.
+
+Sora: (embraces Kairi upon returning to normal) Kairi, thank you.
+
+Kairi: Sora...
+
+Donald & Goofy: Sora!
+
+Sora's group and Kairi were surrounded by more Shadow Heartless. Then 
+the Beast appeared at the scene.
+
+Beast: Go! Now!
+
+Sora: Come with us!
+
+Beast: I told you before, I'm not leaving without Belle. Now, go! The 
+Heartless are coming!
+
+Sora: All right. Let's get out of here.
+
+Sora's group escapes Hollow Bastion and takes their Gummi Ship to 
+Traverse Town. Later, back in the Small House...
+
+Leon: (to Sora) Tell me what happened.
+
+Sora told Leon everything.
+
+Leon: So the darkness is flowing out of the Keyhole...
+
+Aerith: No wonder there are more and more Heartless everywhere. The only 
+way to stop them is-
+
+Sora: Seal the Keyhole, right?
+
+Leon: Maybe. But no one knows what will happen once it's sealed.
+
+Sora: Well, we can't just stay here. We have to do something. I've got a 
+friend back there.
+
+Leon: That's right. You have one more friend to worry about. Riku's 
+Keyblade must have been born of the captive princesses' hearts-just like 
+that Keyhole you saw. (looking at Kairi) Of course, without Kairi's 
+heart, it remained incomplete. Once that Keyblade was destroyed, the 
+princesses' hearts should have been freed. Don't worry, Sora. If anyone 
+can save your friend, you can.
+
+Sora's group proceeds to the First District and talks to Cid.
+
+Sora: Cid, I need to go back to Hollow Bastion.
+
+Cid: I don't think I can let you do that, kid. The Heartless there are 
+multiplying by the minute. They'd eat your ship up.
+
+Sora: Then, what can we do?
+
+Cid: Simple. Go around 'em instead of through. Install a new navigation 
+gummi and take a new route.
+
+Sora: A new gummi? From where?
+
+Cid: The secret waterway. When I came here 9 years ago, I stored it 
+there in case I ever needed it. Never thought a kid would be the one to 
+use it!
+
+Sora's group proceeds to the Secret Waterway and after checking the sun 
+mural, a Navi-Gummi came out of the mural and Sora's group received it. 
+Before Sora's group would go back to the First District, Sora stops by 
+and talks to Kairi. 
+
+Sora: Let's go back and join the others. We should rest up.
+
+Kairi: Okay.
+
+Later, Sora and Kairi talks in private while Goofy and Donald Duck leave 
+them.
+
+Kairi: A light at the end of the tunnel...
+
+Sora: Oh, your grandma's story, right?
+
+Kairi: That's right. We were together.
+
+Sora: You know what's funny? I looked everywhere for you, but you were 
+with me all along. Finally, we're together, Kairi. Now, it's time to get 
+Riku back.
+
+Kairi: You think it'll ever be the same again between us? Riku's lost 
+his...
+
+Sora: When I turned into a Heartless, you saved me, remember?
+
+In Sora's memory...
+
+Sora: I was lost in the darkness. I couldn't find my way. As I stumbled 
+through the dark, I started forgetting things-my friends, who I was. The 
+darkness almost swallowed me. But then I heard your voice-your voice.
+
+The memory ended.
+
+Sora: You brought me back.
+
+Kairi: I didn't want to just forget about you, Sora. I couldn't.
+
+Sora: That's it! Our hearts are connected. And the light from our hearts 
+broke through the darkness. I saw that light. I think that's what saved 
+me. No matter how deep the darkness, a light shines within. I guess it's 
+more than just a fairy tale.
+
+Kairi: Well, let's go.
+
+Sora: You can't go.
+
+Kairi: Why not?
+
+Sora: Because it's way too dangerous.
+
+Kairi: Come on, Sora. We made it this far by sticking together. You 
+can't go alone.
+
+Sora: Kairi, even if we're apart, we're not alone anymore. Right?
+
+Kairi: I can't help?
+
+Sora: You'd kind of be in my way.
+
+Kairi: Okay. You win.
+
+Kairi gave Sora her star shaped item she created.
+
+Kairi: Take this. It's my lucky charm. Be sure to bring it back to me.
+
+Sora: Don't worry. I will.
+
+Kairi: Promise?
+
+Sora: Promise.
+
+Kairi: Don't ever forget. Wherever you go, I'm always with you.
+
+Sora received Oathkeeper key chain. After that, Sora's group proceeds to 
+the First District and talks to Cid.
+
+Cid: You found it? All right, I'll go fix your ship.
+
+Cid takes his leave to install the Gummi Ship. Later, Cid came back.
+
+Cid: All set! You can get going any time. Kid, I gotta say, I wish you 
+didn't have to face all this danger.
+
+Sora's group boards the Gummi Ship. They go through a portal to the area 
+that leads to Hollow Bastion. In the Rising Falls area...
+
+Sora: Where's Belle?
+
+Beast: Still in the castle.
+
+Goofy: Against her will?
+
+Beast: No, I think she stayed for a reason. The other princesses are 
+inside as well.
+
+Donald: I wonder why?
+
+Sora: Let's go ask them.
+
+Beast: You may need my strength. I'll go with you.
+
+Sora's group proceeds to the Library. There, the Beast saw Belle.
+
+Beast: Belle!
+
+The Beast and Belle embraced and kissed each other and are reunited. 
+Later...
+
+Belle: You've come to seal the Keyhole, right? Please, be careful. The 
+darkness is raging deep inside. We've been holding it back, but we can't 
+hold out much longer.
+
+Sora: We'll take care of it.
+
+Sora's group proceeds to the Castle Chapel. Sora finds the princesses 
+and talks to Cinderella and Aurora first.
+
+Cinderella: We've been waiting for you, Keyblade master.
+
+Sora: Where's Ansem?
+
+Cinderella: Gone.
+
+Aurora: When the Keyhole appeared, darkness poured out of it. It 
+swallowed Ansem, and he disappeared.
+
+Cinderella: Though Ansem is gone, the flood of darkness hasn't stopped. 
+We're working together to hold it back.
+
+Aurora: I cannot forget the look on his face. As the darkness engulfed 
+him, he was smiling.
+
+Sora's group talks to Jasmine, Alice, and Snow White.
+
+Jasmine: Sora, please hurry! Darkness is pouring from the Keyhole.
+
+Alice: It's all we can do just to hold back the darkness.
+
+Snow White: I don't know how long we can manage even that.
+
+Sora: All right, I'm on my way.
+
+Snow White: We're counting on you, Keyblade master. In the meantime, 
+we'll do what we can, too.
+
+Sora's group proceeds to the Dark Depths. In there, they fight Behemoth. 
+After Sora's group defeats Behemoth, they not only received Omega Arts 
+accessory, but also saw a Keyhole.
+
+Goofy: Now let's go and seal that big Keyhole!
+
+Leon: Sora. You did it.
+
+Sora's group goes back to the Grand Hall where Leon, Aerith, and Yuffie 
+are waiting.
+
+Sora: What are you guys doing here?
+
+Yuffie: We came in Cid's ship.
+
+Aerith: This is our childhood home. We wanted to see it again.
+
+Leon: It's in worse shape than I feared. It used to be so peaceful...
+
+Aerith: Don't worry. If we defeat Ansem, all should be restored. 
+Including your island.
+
+Sora: Really?
+
+Yuffie: But, it also means goodbye. 
+
+Aerith: Once the worlds are restored, they'll be separate again.
+
+Yuffie: Everyone will go back to where they came from.
+
+Sora: Then I'll visit you guys with the gummi ship.
+
+Leon: It's not that simple.
+
+Yuffie: Before all this, you didn't know about the other worlds, right?
+
+Aerith: Because every world was isolated. Impassable walls divided them.
+
+Yuffie: The Heartless destroyed those walls. But if the world return, so 
+will the walls.
+
+Leon: Which means gummi ships will be useless.
+
+Sora: So you're saying we'll never...?
+
+Leon: We may never meet again, but we'll never forget each other.
+
+Aerith: No matter where we are, our hearts will bring us together again.
+
+Yuffie: Besides, I couldn't forget you even if I wanted to.
+
+Sora: What's that supposed to mean?
+
+Donald: Sora!
+
+Goofy: Hurry! Come and close the Keyhole!
+
+Leon: Sora, good luck.
+
+Sora goes back in the Dark Depths and uses his Keyblade to emit a beam 
+at the Keyhole, sealing this world from the Heartless forever. Later, in 
+the Castle Chapel...
+
+Alice: Thanks you, Sora. I think the darkness has begun to weaken.
+
+Jasmine: But I can feel a powerful darkness growing somewhere far away.
+
+Aurora: It's the heart of the darkness. It must be where Ansem went.
+
+Sora: Then we'll take the gummi ship and deal with both Ansem and the 
+Heartless.
+
+Cinderella: A worthy answer, Keyblade master. We offer this power to aid 
+your battle.
+
+Sora's Fira spell got upgraded to Firaga.
+
+Snow White: Sora, your courage can bring back our worlds.
+
+Aurora: Once the darkness is gone, all should return to its original 
+state.
+
+Sora: Kairi will be back on the island?
+
+Cinderella: Most certainly. And you should be, too.
+
+Sora: I can't go home 'til I find Riku and the king.
+
+Sora's group boards the Gummi Ship to the final area, the End of the 
+World. In the Final Dimension...
+
+Goofy: Gawrsh, is that all that's left of the worlds taken by the 
+Heartless?
+
+Sora: Those worlds will be restored if we beat Ansem, right?
+
+Donald: You betcha.
+
+Sora: But if we do beat him and all these worlds become restored and 
+disconnected, what's gonna happen to this place? And to us?
+
+Donald: Well, uh...
+
+Goofy: This is a Heartless world, so maybe it'll just disappear.
+
+Sora & Donald: Huh?
+
+Goofy: But no worries. Even if this place goes poof, our hearts ain't 
+goin' nowhere. I'm sure we'll find our pals again. Yup, I just know that 
+we will.
+
+Sora: Yeah, you're right.
+
+Sora looks at the lucky charm that Kairi gave him.
+
+Sora: I'll return this. I promise.
+
+Sora's group proceeds to the next area. In the next area...
+
+Goofy: I wonder where that Ansem feller went?
+
+Donald: Dive into the most dangerous place and we'll find him!
+
+Sora's group then reached another area where they fight series of 
+Heartless from previous worlds. Then, they reached the big area where 
+they fight Chernabog. After Sora's group defeats Chernabog, Sora's group 
+learned Superglide. After that, Sora's group reached the Final Rest 
+area. Before Sora could open the door. 
+
+Sora: Huh?
+
+Donald: What's wrong?
+ 
+Sora: Don't you hear something? There!
+
+Mysterious Voice: Careful. This is the last haven you'll find here. 
+Beyond, there is no light to protect you. But don't be afraid. Your 
+heart is the mightiest weapon of all. Remember, you are the one who will 
+open the door to the light.
+
+Donald: I don't hear anything.
+
+Sora: Strange... That voice was so familiar. Maybe it's just my 
+imagination.
+
+Donald: Maybe you'd better take a rest!
+
+Sora opens the door to an area that resembles Destiny Islands.
+
+Sora: Is this... Is this my island?
+
+Sora's group approaches the area where the Secret Area used to be.
+
+Voice of Ansem: This world has been connected.
+
+The objects on the islands start to disappear.
+
+Goofy: What was that?
+
+Voice of Ansem: Tied to the darkness...soon to be completely eclipsed. 
+There is so very much to learn.
+
+The ocean turned purple.
+
+Voice of Ansem: You understand so little. A meaningless effort. One who 
+knows nothing can understand nothing.
+
+The island changed and the camera shows Riku's powerful form. Sora's 
+group approaches closer.
+
+Ansem: Take a look at this tiny place. To the heart seeking freedom this 
+island is a prison surrounded by water. And so this boy sought to escape 
+from his prison. He sought a way to cross over into other worlds. And he 
+opened his heart to darkness.
+
+Riku turned to Ansem.
+
+Sora: Riku!
+
+Ansem: Don't bother. Your voice can no longer reach him where he is. His 
+heart belongs again to darkness. All worlds begin in darkness, and all 
+so end. The heart is no different. Darkness sprouts within it, grows, 
+consumes it. Such is its nature. In the end, every heart returns to the 
+darkness whence it came.
+
+Ansem appeared in midair floating behind Sora's group.
+
+Ansem: You see, darkness is the heart's true essence.
+
+Sora: That's not true! The heart may be weak. And sometimes it may even 
+give in. But I've learned that deep down, there's a light that never 
+goes out!
+
+Ansem rises up a little.
+
+Ansem: So, you have come this far and still you understand nothing. 
+Every light must fade, every heart return to darkness!
+
+Sora's group fights Ansem. After the first fight, the tree shakes apart 
+revealing Ansem where he is waiting. Sora's group enters that area, but 
+Donald Duck and Goofy were shoved back from the invisible barrier. Only 
+Sora made it to that area. Sora fights Darkside and defeats it. Then, 
+Sora fights Ansem after he appeared for the second time. After the fight 
+against Ansem, Sora's group ends up in the dark emptiness.
+
+Sora: Wha...?
+
+Ansem: Behold the endless abyss! Within lies the heart of all worlds: 
+Kingdom Hearts!
+
+The camera shows the white door, Kingdom Hearts.
+
+Ansem: Look as hard as you are able. You'll not find even the smallest 
+glimmer of light. From those dark depths are all hearts born. Even 
+yours.
+
+The World of Chaos appeared.
+
+Ansem: Darkness conquers all worlds!
+
+Suddenly, Goofy and Donald Duck were sucked into a portal and Sora 
+falls, but then...
+
+Voice of Riku: Giving up already? Come on, Sora. I thought you were 
+stronger than that.
+
+Sora flies up and saw Ansem in his ultimate form, which is the World of 
+Chaos. Sora fights Ansem. After the fight, Ansem freezes himself with a 
+Heartless crest that protects him. Sora saw a portal and goes in it. In 
+there, Sora destroys the Room Core and escapes from it. Then, Sora 
+fights the Artilleries. After defeating them all, a portal was revealed 
+and Sora goes through. Inside, Sora rescued Goofy and destroyed the 
+second Room Core. They both escaped. Then, Sora and Goofy fights the 
+Face. After defeating it, another portal appeared. Sora and Goofy goes 
+through it. Sora and Goofy rescues Donald Duck and they destroyed the 
+third Room Core. Sora's group escaped from that area. Sora's group 
+fights the Main Core. After destroying it, Ansem revives. Sora's group 
+fights Ansem one last time. After Sora's group defeated the World of 
+Chaos, Ansem is still alive.
+
+Ansem: It is futile. The Keyblade alone cannot seal the door to 
+darkness. (to the Kingdom Hearts) Kingdom Hearts! Fill me with the power 
+of darkness...
+
+Kingdom Hearts' doors open with dark smoke coming out.
+
+Ansem: Supreme darkness...
+
+Sora: You're wrong. I know now, without a doubt. Kingdom Hearts...is 
+light!
+
+Light appeared from Kingdom Hearts doors. The lights illuminate Ansem.
+
+Ansem: Lights? But why...?
+
+Ansem has disappeared for good. With Kingdom Hearts' doors partially 
+open, Sora's group approaches them and begins closing it.
+
+Sora: Come on!
+
+While Sora's group pushes the doors, Goofy stopped to see something.
+
+Donald: Stop staring and keep pushing!
+
+Suddenly, Donald Duck and Goofy saw more Heartless through the doors of 
+Kingdom Hearts.
+
+Donald & Goofy: The Heartless!?
+
+Donald: Hurry!
+
+Sora: I can't...
+
+Riku: Don't give up!
+
+Riku appeared from the other side of the doors.
+
+Riku: Come on, Sora! Together, we can do it!
+
+Sora: Okay!
+
+Sora's group and Riku tries harder to close the doors, but the Heartless 
+are approaching.
+
+Donald: It's hopeless!
+
+Suddenly, the Heartless was eliminated one by one. Then, Goofy and 
+Donald Duck saw something bright coming out, it is Mickey Mouse.
+
+Donald & Goofy: Your Majesty!
+
+Mickey: (holding his own Keyblade) Now, Sora! Let's close this door for 
+good!
+
+Donald: (to Sora) Close it, quick!
+
+Sora: But...
+
+Mickey: Don't worry. There will always be a door to the light.
+
+Goofy: Sora, you can trust King Mickey.
+
+Riku: Now! They're coming!
+
+Mickey: Donald, Goofy, thank you.
+
+Sora's group closes the doors. Riku has one last thing to say to Sora.
+
+Riku: Take care of her.
+
+Sora nods as he and his group close the door. Then, Sora and Mickey uses 
+their Keyblade to make Kingdom Hearts disappear. After that has been 
+done, Sora saw Kairi, who is about to go back to her world. Donald tried 
+to follow Sora, but Goofy stopped Donald before he could do anything. 
+Sora runs to Kairi. We watch a final movie of Sora coming to Kairi.
+
+Sora: Kairi!
+
+Kairi: Sora!
+
+The area starts shaking. Sora and Kairi hold each other's hand.
+
+Sora: Kairi. Remember what you said before? I'm always with you, too. 
+I'll come back to you. I promise!
+
+Kairi: I know you will!
+
+Sora and Kairi's unable to grab each other's hand any longer. Once 
+they're let go of, Kairi is separated. The song Simple and Clean plays 
+and the camera shows Kairi being taken back to Destiny Islands. After 
+seeing Destiny Islands turning back to normal, Kairi enters the Secret 
+Area to remember the scribbles she and Sora did. When she saw the 
+scribble of Kairi and Sora giving a star to her, Sora appeared 
+scribbling and looked at Kairi smiled before he disappeared. Kairi 
+smiled and tears came out of her eyes. The camera then switches to the 
+same scribbles, but this time, another star was shown and given to Sora. 
+The credits roll. After the credits, the epilogue begins where Sora's 
+group with Donald Duck and Goofy in their original clothes started 
+walking down the road. 
+
+Donald: Well, now what do we do?
+
+Sora: We've gotta find Riku and King Mickey.
+
+Goofy: But, uh, where do we start lookin' for that there door to the 
+light?
+
+Sora's group looks down as if clueless. Then, Sora saw Pluto appeared 
+with something he's holding in his mouth.
+
+Donald: Pluto?
+
+Goofy: Hey, Pluto. Where have you been?
+
+Donald: (saw Pluto's mouth holding something) Hey!
+
+Goofy: Gawrsh, that's the king's seal!
+
+Sora: (to Pluto) Hey, have you seen King Mickey?
+
+Pluto leads the way by running.
+
+Sora: Guys, let's go!
+
+Sora's group ran after Pluto. While following Pluto, Sora smiles and 
+Donald Duck and Goofy are enjoying themselves as they embark on the next 
+adventure.
+
+Mysterious Voice: Remember, Sora. You are the one who will open the door 
+to the light.
+
+This ends our story and the game.
+
+THE END
+------------------------------------------------------------------------
+-------------------
+3. Credits
+
+Thanks, goes to SquareSoft for teaming up with Disney Interactive to 
+make such a great and entertaining game. I'm glad I had the opportunity 
+to see Donald Duck and Goofy one more time ever since I grew out of 
+watching the Disney Channel.
+Thanks, goes to SquareSoft once again for adding a theme song performed 
+by a Japanese pop artist/singer Utada Hikaru in English. You can now get 
+the "Simple and Clean" soundtrack singles at www.gamemusic.com if you're 
+interested.
+Thanks, goes to Disney Interactive for the Disney, Hollywood and some 
+anime voice actors for the voice-overs of this game.
+This document is copyright OKong and hosted by Neoseeker with permission.
+Kingdom Hearts faqs and walkthroughsKingdom Hearts cheatsKingdom Hearts forum
+(0.0986/d/www1)
